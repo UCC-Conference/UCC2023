@@ -44,7 +44,15 @@ const CallForPaper = () => {
                         <tr>
                             <td>Antonino Galletta, University of Messina, Italy</td>
                         </tr>
-
+                        <tr>
+                            <td>Sukhpal Singh Gill, Queen Mary University of London, UK</td>
+                        </tr>
+                        <tr>
+                            <td>Bahman Javadi, Western Sydney University, Australia</td>
+                        </tr>
+                        <tr>
+                            <td>Eirini Eleni Tsiropoulou, New Mexico University, USA</td>
+                        </tr>
 
                         <tr>
                             <th>
