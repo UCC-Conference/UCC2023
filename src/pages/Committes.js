@@ -34,8 +34,6 @@ const CallForPaper = () => {
                             <td>Song Fu, University of North Texas, US</td>
                         </tr>
 
-
-
                         <tr>
                             <th>
                                 <h3>Publicity Co-Chair(s)</h3>
@@ -55,6 +53,15 @@ const CallForPaper = () => {
                         </tr>
                         <tr>
                             <td>Ching-Hsien Hsu, National Chung Cheng University, Taiwan</td>
+                        </tr>
+
+                        <tr>
+                            <th>
+                                <h3>Student Program Chair(s)</h3>
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>Francesco Martella, University of Messina, Italy</td>
                         </tr>
 
                         <tr>
