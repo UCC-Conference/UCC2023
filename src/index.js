@@ -7,7 +7,7 @@ import ScrollToTop from "./components/elements/ScrollToTop";
 import "./index.css";
 import App from "./App";
 
-const subpath = "/UCC2023";
+const subpath = "/";
 const history = createBrowserHistory({ basename: subpath});
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
