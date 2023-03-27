@@ -7,14 +7,13 @@ import ScrollToTop from "./components/elements/ScrollToTop";
 import "./index.css";
 import App from "./App";
 
-const subpath = "/";
-const history = createBrowserHistory({ basename: subpath});
+const history = createBrowserHistory();
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
 
 root.render(
     <React.StrictMode>
-        <BrowserRouter history={history} basename={subpath}>
+        <BrowserRouter>
         <ScrollToTop history={history} />
             <App />
         </BrowserRouter>
