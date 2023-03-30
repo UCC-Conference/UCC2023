@@ -2,11 +2,11 @@ import React from "react";
 import Content from "../components/elements/Content";
 import PageWrapper from "../components/elements/PageWrapper";
 
-const CallForPaper = () => {
+const Committees = () => {
     return (
         <PageWrapper>
             <Content>
-                <h1>Committes</h1>
+                <h1>Committees</h1>
                 <hr />
                 <table>
                     <tbody>
@@ -94,4 +94,4 @@ const CallForPaper = () => {
     );
 };
 
-export default CallForPaper;
+export default Committees;
