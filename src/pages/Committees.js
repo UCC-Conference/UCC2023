@@ -31,7 +31,7 @@ const Committees = () => {
                             <td>Lorenzo Carnevale, University of Messina, Italy</td>
                         </tr>
                         <tr>
-                            <td>Song Fu, University of North Texas, US</td>
+                            <td>Song Fu, University of North Texas, USA</td>
                         </tr>
     
                         <tr>
