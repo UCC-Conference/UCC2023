@@ -33,7 +33,16 @@ const Committees = () => {
                         <tr>
                             <td>Song Fu, University of North Texas, US</td>
                         </tr>
-
+    
+                        <tr>
+                            <th>
+                                <h3>Workshop Co-Chair(s)</h3>
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>Luiz Bittencourt, University of Campinas, Brazil</td>
+                        </tr>
+    
                         <tr>
                             <th>
                                 <h3>Publicity Co-Chair(s)</h3>
