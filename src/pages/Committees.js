@@ -45,6 +45,15 @@ const Committees = () => {
     
                         <tr>
                             <th>
+                                <h3>Artifact Evaluation Co-Chair(s)</h3>
+                            </th>
+                        </tr>
+                        <tr>
+                            <td>Josef Spillner, Zurich University of Applied Sciences, Switzerland</td>
+                        </tr>
+    
+                        <tr>
+                            <th>
                                 <h3>Poster Co-Chair(s)</h3>
                             </th>
                         </tr>
