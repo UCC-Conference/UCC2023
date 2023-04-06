@@ -54,6 +54,9 @@ const Committees = () => {
                         <tr>
                             <td>Josef Spillner, Zurich University of Applied Sciences, Switzerland</td>
                         </tr>
+                        <tr>
+                            <td>Pamela Delgado, University of Applied Sciences of Valais, Switzerland</td>
+                        </tr>
     
                         <tr>
                             <th>
