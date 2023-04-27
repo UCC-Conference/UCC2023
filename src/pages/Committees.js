@@ -101,6 +101,7 @@ const Committees = () => {
                         </tr>
                         <tr>
                             <td>Francesco Martella, University of Messina, Italy</td>
+                            <td>Amelie Chi Zhou, Shenzhen University, China</td>
                         </tr>
 
                         <tr>
