@@ -114,6 +114,9 @@ const Committees = () => {
                         <tr>
                             <td>Armando Ruggeri, University of Messina, Italy</td>
                         </tr>
+                        <tr>
+                            <td>Zichuan Xu, Dalian University of Technology, China</td>
+                        </tr>
 
                         <tr>
                             <th>
