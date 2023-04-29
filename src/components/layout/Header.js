@@ -9,16 +9,68 @@ function Header() {
     const [scrolled, setScrolled] = useState(false);
     const [menuOpen, setMenuOpen] = useState(false);
 
-    const menuItems = getRoutes().map((route, i) => (
+    const routes = {};
+    getRoutes().forEach((route) => {
+        if (route.parent)
+            if ([route.parent] in routes && "children" in routes[route.parent]) routes[route.parent]["children"].push(route);
+            else routes[route.parent] = { parent: route.parent, level: 1, children: [route] };
+        else routes[route.href] = { level: 0, route };
+    });
+    const menuItems = Object.values(routes).map((item, i) => (
         <li key={i}>
-            <NavLink to={route.href}>
-                {route.title}
-            </NavLink>
+            {item.level ? (
+                <div className="dropdown">
+                    <a
+                        href="/#"
+                        onClick={(e) => {
+                            e.preventDefault();
+                        }}>
+                        <span>{item.parent}</span>
+                        <span class="arrow-down" />
+                    </a>
+                    <div className="dropdown-menu">
+                        <span class="arrow-up" />
+                        {item.children.map((link, j) => (
+                            <NavLink key={"a" + j} to={link.href}>
+                                {link.title}
+                            </NavLink>
+                        ))}
+                    </div>
+                </div>
+            ) : (
+                <NavLink key={i} to={item.route.href}>
+                    {item.route.title}
+                </NavLink>
+            )}
         </li>
     ));
-    const menuItemsMobile = getRoutes().map((route, i) => (
+    const menuItemsMobile = Object.values(routes).map((item, i) => (
         <li key={i}>
-            <NavLink to={route.href} onClick={() => setMenuOpen(false)}>{route.title}</NavLink>
+            {item.level ? (
+                <div className="dropdown">
+                    <a
+                        href="/#"
+                        onClick={(e) => {
+                            e.preventDefault();
+                            if (e.target.parentNode.parentNode.classList.contains("active")) e.target.parentNode.parentNode.classList.remove("active");
+                            else e.target.parentNode.parentNode.classList.add("active");
+                        }}>
+                        <span class="arrow" />
+                        <span>{item.parent}</span>
+                    </a>
+                    <div className="dropdown-menu">
+                        {item.children.map((link, j) => (
+                            <NavLink key={"a" + j} to={link.href}>
+                                {link.title}
+                            </NavLink>
+                        ))}
+                    </div>
+                </div>
+            ) : (
+                <NavLink to={item.route.href} onClick={() => setMenuOpen(false)}>
+                    {item.route.title}
+                </NavLink>
+            )}
         </li>
     ));
 
