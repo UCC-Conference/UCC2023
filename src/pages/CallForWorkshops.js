@@ -56,7 +56,7 @@ const CallForWorkshops = () => {
                     </li>
                 </ol>
                 <p>
-                    Submit your workshop by using the following link: <Link to="https://cmt3.research.microsoft.com/UCCBDCAT2023">https://cmt3.research.microsoft.com/UCCBDCAT2023</Link>
+                    Submit your workshop by using the following link:<br/><Link to="https://cmt3.research.microsoft.com/UCCBDCAT2023">https://cmt3.research.microsoft.com/UCCBDCAT2023</Link>
                 </p>
                 <br />
                 <h2>IMPORTANT DATES</h2>
