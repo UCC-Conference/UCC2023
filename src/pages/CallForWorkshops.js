@@ -13,10 +13,6 @@ const CallForWorkshops = () => {
                     16th IEEE/ACM International Conference on Utility and Cloud Computing (<strong>UCC 2023</strong>)
                     <br />
                     <Link to="https://ucc-conference.org">www.ucc-conference.org</Link>
-                    <br />
-                    The 10th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (<strong>BDCAT2023</strong>)
-                    <br />
-                    <Link to="https://bdcat-conference.org">www.bdcat-conference.org</Link>
                 </p>
                 <p>
                     Taormina (Messina), Italy
