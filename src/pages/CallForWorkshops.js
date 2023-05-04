@@ -10,7 +10,7 @@ const CallForWorkshops = () => {
                 <h1>Call for Workshop Proposals Submission</h1>
                 <hr />
                 <p>
-                    16th IEEE/ACM International Conference on Utility and Cloud Computing (<strong>UCC 2023</strong>) and
+                    16th IEEE/ACM International Conference on Utility and Cloud Computing (<strong>UCC 2023</strong>)
                     <br />
                     <Link to="https://ucc-conference.org">www.ucc-conference.org</Link>
                     <br />
@@ -33,13 +33,10 @@ const CallForWorkshops = () => {
                 <br />
                 <h2>CONTEXT & SCOPE</h2>
                 <p>
-                    The IEEE/ACM International Conference on Utility and Cloud Computing (UCC) and IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT) are two premier IEEE/ACM conferences covering all areas
-                    related to utility computing, cloud and edge computing services, big data and applications.
+                The IEEE/ACM International Conference on Utility and Cloud Computing is a premier IEEE/ACM conference covering all areas related to utility computing and cloud and edge computing services.
                 </p>
                 <p>
-                    This will be the 16th UCC and the 10th BDCAT in a successful conference series of community-driven events. Previous events were held in Shanghai, China (Cloud 2009), Melbourne, Australia (Cloud 2010 & UCC 2011), Chennai, India
-                    (UCC 2010), Chicago, USA (UCC 2012), Dresden, Germany (UCC 2013), London, UK (UCC and BDCAT 2014), Limassol, Cyprus (UCC and BDCAT 2015), Shanghai, China (UCC and BDCAT 2016), Austin, Texas, USA (UCC and BDCAT 2017), Zurich,
-                    Switzerland (UCC and BDCAT 2018), and Auckland, New Zealand (UCC and BDCAT 2019), Online (UCC and BDCAT 2020), Leicester, UK/hybrid online (UCC and BDCAT 2021), Vancouver, WA, USA (UCC and BDCAT 2022).
+                This will be the 16th UCC in a successful conference series of community-driven events. Previous events were held in Shanghai, China (Cloud 2009), Melbourne, Australia (Cloud 2010 & UCC 2011), Chennai, India (UCC 2010), Chicago, USA (UCC 2012), Dresden, Germany (UCC 2013), London, UK (UCC 2014), Limassol, Cyprus (UCC 2015), Shanghai, China (UCC 2016), Austin, Texas, USA (UCC 2017), Zurich, Switzerland (UCC 2018), and Auckland, New Zealand (UCC 2019), Online (UCC 2020), Leicester, UK/hybrid online (UCC 2021),  Vancouver, WA, USA (UCC 2022).
                 </p>
                 <p>Proposals for workshops should be submitted in PDF format, must not exceed 2 pages in length and contain the following information.</p>
                 <ol>
@@ -82,10 +79,6 @@ const CallForWorkshops = () => {
                     <li>Applications: games, social networks, scientific computing (e-science) and business, as well as large-scale foundations for Big Data and analytics</li>
                     <li>Architectural and Programming models for fog/edge computing and the computing continuum</li>
                     <li>Autonomic techniques for Cloud and edge applications</li>
-                    <li>Big Data Science</li>
-                    <li>Big Data Infrastructures and Platforms</li>
-                    <li>Big Data Applications</li>
-                    <li>Visualization of Big Data</li>
                     <li>Cloud and edge management: autonomic, adaptive, self-*, SLAs, performance models and monitoring</li>
                     <li>Cloud and edge business and legal implications beyond technology</li>
                     <li>Cloud Computing middleware, stacks, tools, delivery networks and services at all layers (XaaS)</li>
@@ -103,7 +96,6 @@ const CallForWorkshops = () => {
                     <li>Virtualization technologies and other enablers</li>
                     <li>Artificial intelligence in Clouds and Edge</li>
                     <li>Artificial Intelligence as a Service (AIaaS)</li>
-                    <li>Support for Extract/Transform/Load (ETL) or ELT Pipelines</li>
                 </ul>
                 <br />
                 <h2>RESPONSIBILITIES</h2>
@@ -112,9 +104,7 @@ const CallForWorkshops = () => {
                     <li>Setup the submission system of your choice.</li>
                     <li>Invite TPC members.</li>
                     <li>
-                        Produce a web site and a Call for Papers/Participation for their workshop. The URL should be sent to the UCC/BDCAT Workshops chairs. The call must make it clear that the workshop is open to all members of the Cloud, Edge,
-                        Fog, Big Data, Grid, and Cluster Computing community. It should mention that at least one author of each accepted submission must attend the workshop and that all workshop participants must register under the UCC/BDCAT 2023
-                        workshop day registration fee or the conference fee. The CfP should make it clear that the registration of at least one author requires the full (non-student, non-workshop) rate.
+                    Produce a web site and a “Call for Papers/Participation” for their workshop. The URL should be sent to the UCC Workshops chairs. The call must make it clear that the workshop is open to all members of the Cloud, Edge, Fog, Big Data, Grid, and Cluster Computing community. It should mention that at least one author of each accepted submission must attend the workshop and that all workshop participants must register under the UCC 2023 workshop day registration fee or the conference fee. The CfP should make it clear that the registration of at least one author requires the full (non-student, non-workshop) rate.
                     </li>
                     <li>
                         Ensure that all workshop papers are a maximum of 6 pages in length, following the main conference format. It is the responsibility of the workshop organizers to ensure that this page limit has been adhered to. Additional pages
@@ -126,25 +116,24 @@ const CallForWorkshops = () => {
                     <li>Assist in producing a camera-ready version of the workshop proceedings.</li>
                     <li>The conference will take place in person and one workshop organizer should attend the conference to take care of the workshop sessions.</li>
                 </ul>
-                <p>The UCC/BDCAT 2023 Conference Organizing Committee will be responsible for the following:</p>
+                <p>The UCC 2023 Conference Organizing Committee will be responsible for the following:</p>
                 <ul>
                     <li>Provide a link to the workshop's web site on the main conference site.</li>
                     <li>Provide logistics support and a meeting place for the workshop.</li>
                     <li>In conjunction with the organizers, determine the workshop date and time.</li>
-                    <li>Provide copies of the workshop proceedings to attendees. Workshop proceedings will be published by IEEE or ACM, following the UCC/BDCAT conference proceedings for the current year.</li>
+                    <li>Provide copies of the workshop proceedings to attendees. Workshop proceedings will be published by ACM, following the UCC conference proceedings for the current year.</li>
                 </ul>
                 <br />
                 <h2>Details and Important Notes</h2>
                 <ol>
                     <li>
-                        If the workshop is too small (i.e., it does not attract enough submissions) the UCC/BDCAT 2023 Organizing Committee may decide to merge that workshop with another. We encourage workshop organizers to attract a large community.
-                        In extreme situations we may also cancel workshops if there are not enough submissions.
+                        If the workshop is too small (i.e., it does not attract enough submissions) the UCC 2023 Organizing Committee may decide to merge that workshop with another. We encourage workshop organizers to attract a large community. In extreme situations we may also cancel workshops if there are not enough submissions. 
                     </li>
                     <li>
                         Workshop organizers must ensure that suitable quality measures have been taken to ensure that the accepted papers are of high quality. All papers must be reviewed by an international Technical Program Committee with a minimum
                         of 3 reviews per paper. The workshop organizers should also try to observe an acceptance rate that is no higher than 50%.
                     </li>
-                    <li>Workshops are not automatically endorsed by IEEE or ACM and should not use the names of these organizations in their titles.</li>
+                    <li>Workshops are not automatically endorsed by ACM and should not use the names of these organizations in their titles.</li>
                 </ol>
             </Content>
         </PageWrapper>
