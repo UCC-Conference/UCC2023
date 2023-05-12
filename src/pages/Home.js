@@ -38,21 +38,14 @@ const Home = () => {
                     <h1>About UCC</h1>
                 </center>
                 <p>
-                    Cloud computing has firmly established itself as an indispensable utility for the digital age. Cloud services consumers expect and rely on sufficient computing power, the availability of data and media, and that these will be
-                    accessible across a range of devices.
+                    The IEEE/ACM International Conference on Utility and Cloud Computing (UCC) is a premier annual conference series aiming to provide a platform for researchers from both academia and industry to present new discoveries in the broad area of Cloud and Edge utility computing and applications.
                 </p>
                 <p>
-                    The expectation now is that Cloud services providers are capable of maintaining streamed services that are always available. Also, social and technological challenges are met with the development and adoption of new technologies
-                    that provide a safer, more secure, and richer digital experience for users and customers. Therefore, it is essential that sound scientific principles underpinning cloud technology and its economic value to both service providers
-                    and consumers are expressed and understood.
+                    Previous events were held in Shanghai, China  (Cloud 2009), Melbourne, Australia (Cloud 2010 & UCC 2011), Chennai, India (UCC 2010), Chicago, USA (UCC 2012), Dresden, Germany (UCC2013), London, UK (UCC 2014), Limassol, Cyprus (UCC 2015), Shanghai, China (UCC 2016), Austin, USA (UCC 2017), Zurich, Switzerland  (UCC 2018), Aucland, New Zealand (UCC 2019), Leicester, UK (UCC 2020), Leicester, UK (UCC 2021), and Vancouver, USA (UCC 2022). 
                 </p>
-                <p>UCC 2023 is the premier IEEE/ACM conference for areas related to Cloud Computing as a Utility and provides an international forum for leading researchers and practitioners in this important and growing field.</p>
                 <p>
-                    This will be the 16th UCC in a successful conference series of community-driven events. Previous events were held in Shanghai, China (Cloud 2009), Melbourne, Australia (Cloud 2010 & UCC 2011), Chennai, India (UCC 2010), Chicago,
-                    USA (UCC 2012), Dresden, Germany (UCC2013), London, UK (UCC 2014), Limassol, Cyprus (UCC 2015), Shanghai, China (UCC 2016), Austin, Texas, USA (UCC 2017), Technopark Zurich, Switzerland (UCC 2018), Aucland, New Zealand (UCC 2019),
-                    Leicester, UK (UCC 2020), Leicester, UK (UCC 2021), and Vancouver, USA (UCC 2022).
+                    UCC 2023 will be held in conjunction with the 10th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT 2023) in Taormina, Messina, Italy.
                 </p>
-                <p>UCC 2023 is co-located with BDCAT 2023 and offers a technical programme, workshops, tutorials, doctoral symposium, and cloud challenge.</p>
             </Content>
             <Content className="center">
                 <div className="date">
