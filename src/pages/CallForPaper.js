@@ -9,40 +9,61 @@ const CallForPaper = () => {
                 <h1>Call for Papers</h1>
                 <hr/>
                 <p>
-                    The digital transformation of all areas of life is accelerated in this decade by novel cloud services, e-infrastructures, data platforms and cyber-physical system integration. This broader scope of cloud computing calls for
-                    technically sound contributions that combine scale with convenience and reliability. Society and economy depend on cloud applications delivering compute power on demand in every location along data paths as a general service to
-                    the public, in analogy to conventional utilities. The engineering of such systems and applications calls for scientifically proven approaches, methods, tools and technologies.
+                    The digital transformation of all areas of life is accelerated in this century by novel Cloud-Edge Continuum services, infrastructures, data platforms and cyber-physical systems. This broader scope of computing calls for technically sound contributions that combine scale with convenience and reliability. Indeed, society and economy depend on Cloud-Edge Continuum applications, delivering computing on demand in every location as a general service to the public, in analogy to conventional utilities. The engineering of such systems and applications calls for scientifically proven approaches, methods, tools and technologies.
                 </p>
                 <p>
-                    Providing a forum to review and discuss possible solutions, UCC is the premier IEEE/ACM conference for areas related to Cloud Computing as a Utility where leading researchers and practitioners in this important and growing field
-                    gather on an annual basis.
+                    The IEEE/ACM International Conference on Utility and Cloud Computing (UCC) is a premier annual conference series aiming to provide a platform for researchers from both academia and industry to present new discoveries in the broad area of Cloud and Edge utility computing and applications. Previous events were held in Shanghai, China  (Cloud 2009), Melbourne, Australia (Cloud 2010 & UCC 2011), Chennai, India (UCC 2010), Chicago, USA (UCC 2012), Dresden, Germany (UCC2013), London, UK (UCC 2014), Limassol, Cyprus (UCC 2015), Shanghai, China (UCC 2016), Austin, USA (UCC 2017), Zurich, Switzerland  (UCC 2018), Aucland, New Zealand (UCC 2019), Leicester, UK (UCC 2020), Leicester, UK (UCC 2021), and Vancouver, USA (UCC 2022). UCC 2023 will be held in conjunction with the 10th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT 2023) in Taormina, Messina, Italy.
                 </p>
-                <p>Authors are invited to submit original, unpublished research manuscripts in all areas of Cloud and Utility Computing and related computing paradigms such as Fog/Edge, Serverless and Distributed Computing.</p>
-                <p>Topics of interest include (but not limited to):</p>
-                <ul>
-                    <li>Formal and qualitative aspects of Cloud technology</li>
-                    <li>Security, trust, privacy and policies in Clouds, and Cloud-hosted Blockchains</li>
-                    <li>Artificial intelligence in Clouds, and Cloud applications</li>
-                    <li>Architectural models and patterns to achieve Utility in Clouds</li>
-                    <li>Cloud business and legal implications beyond technology</li>
-                    <li>Cloud Computing middleware, stacks, tools, delivery networks and services at all layers (XaaS)</li>
-                    <li>Cloud large-scale foundations for Big Data, IoT, and real-time analytics</li>
-                    <li>Cloud management: autonomic, adaptive, self-*, SLAs, and monitoring</li>
-                    <li>Cloud-native application design, programming models, engineering and serverless/microservice implementation</li>
-                    <li>Cloud, Micro data centers, Fog and edge/mobile devices management, hierarchy models, and business models</li>
-                    <li>Designs and deployment models for Clouds: private, public, hybrid, federated, aggregated, intercloud</li>
-                    <li>Economic and business models of Clouds and services</li>
-                    <li>High Performance Computing and the Cloud</li>
-                    <li>Innovative cloud applications and experiences, including quantum clouds and IoT-fog/edge cloud continuums</li>
-                    <li>Mobile and energy-efficient use of Clouds</li>
-                    <li>Networking for clouds and data centers</li>
-                    <li>Performance analysis and modelling of cloud systems and applications</li>
-                    <li>Principles and theoretical foundations of Utility Computing</li>
-                    <li>Resource management and scalability: brokering, scheduling, capacity planning, and elasticity</li>
-                    <li>Utility-driven platforms for Clouds</li>
-                    <li>Utility-driven models and mechanisms for cloud applications in all domains (smart cities, mobility, e-health, industry etc.)</li>
-                    <li>Virtualization, containerization, composition, orchestration and other enablers</li>
-                </ul>
+                <p>
+                    Authors are invited to submit original, unpublished research manuscripts in all areas of Cloud-Edge Continuum for utility computing and related computing paradigms such as Serverless, Distributed Computing and Function as a Service.
+                </p>
+                <p>
+                    Topics of interest include (but not limited to):
+                </p>
+                <ol>
+                    <li><h3>Resource Management for Cloud-Edge Continuum</h3></li>
+                    <ul>
+                        <li>Principles and Theoretical Foundations of Utility Computing</li>
+                        <li>Architectural Models and Patterns to Achieve Utility</li>
+                        <li>Virtualization, Containerization, Composition and Orchestration</li>
+                        <li>Formal and Qualitative Aspects</li>
+                        <li>Middleware and Stacks</li>
+                        <li>Networking and Network Management</li>
+                        <li>Saas, Paas, Iaas and XaaS</li>
+                        <li>Resource Management and Scalability: Brokering, Scheduling, Capacity planning and Elasticity</li>
+                        <li>Security, Trust, Privacy, Policies and Blockchains</li>
+                        <li>Autonomic, Adaptive, Self-*, SLAs, Management and Monitoring</li>
+                        <li>Designs and Deployment Models: Private, Public, Hybrid, Federated, Aggregated, Inter-Cloud</li>
+                        <li>High Performance Computing (HPC)</li>
+                        <li>Performance Analysis and Modeling</li>
+                    </ul>
+                    <li><h3>Artificial Intelligence for Cloud-Edge Continuum</h3></li>
+                    <ul>
+                        <li>Machine Learning Operations (MLOps)</li>
+                        <li>Artificial Intelligence Solutions for Scheduling, Provisioning and Deployment</li>
+                        <li>Artificial Intelligence Solutions for Orchestration</li>
+                        <li>GPU as a Service (GPUaaS), Artificial Intelligence as a Service (AIaaS)</li>
+                        <li>Support for Extract/Transform/Load (ETL) or ETL Pipelines</li>
+                        <li>Machine Learning Cloud Frameworks</li>
+                        <li>Artificial Intelligence Infrastructure</li>
+                        <li>Distributed, Federated, and Collaborative Learning</li>
+                    </ul>
+                    <li><h3>Applications and Systems for Cloud-Edge Continuum</h3></li>
+                    <ul>
+                        <li>Native Application Design, Programming Models and Engineering</li>
+                        <li>Serverless and Function-Based Applications (FaaS)</li>
+                        <li>Microservices Architectures</li>
+                        <li>Quantum Computing</li>
+                        <li>Interfacing to Internet of Things (IoT) Applications</li>
+                        <li>Utility-Driven Models and Mechanisms in All Domains (e.g., Smart Cities, Mobility, Healthcare, Industry 4.0)</li>
+                        <li>Micro Data Centers</li>
+                        <li>Interfacing to Mobile Devices: Management, Hierarchy Models and Business Models</li>
+                        <li>Energy-Efficiency and Sustainability</li>
+                        <li>Development Operations (DevOps)</li>
+                        <li>Economic and Business Models</li>
+                        <li>Business and Legal Implications Beyond Technology</li>
+                    </ul>
+                </ol>
             </Content>
         </PageWrapper>
     );
