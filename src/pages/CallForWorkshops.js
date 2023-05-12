@@ -72,25 +72,25 @@ const CallForWorkshops = () => {
                     to:
                 </p>
                 <ul>
-                    <li>Applications: games, social networks, scientific computing (e-science) and business, as well as large-scale foundations for Big Data and analytics</li>
-                    <li>Architectural and Programming models for fog/edge computing and the computing continuum</li>
-                    <li>Autonomic techniques for Cloud and edge applications</li>
-                    <li>Cloud and edge management: autonomic, adaptive, self-*, SLAs, performance models and monitoring</li>
-                    <li>Cloud and edge business and legal implications beyond technology</li>
-                    <li>Cloud Computing middleware, stacks, tools, delivery networks and services at all layers (XaaS)</li>
-                    <li>Cloud to edge continuum for Internet of Things, Smart Industries, and Smart Cities</li>
-                    <li>Design and deployment models for Edge and Cloud</li>
-                    <li>Economic models and scenarios of use</li>
+                    <li>Applications: Games, Social Networks, Scientific Computing (e-science) and Business</li>
+                    <li>Architectural and Programming models for Cloud-Edge Continuum</li>
+                    <li>Autonomic Techniques for the Cloud-Edge Continuum</li>
+                    <li>Cloud-Edge Continuum management: Autonomic, Adaptive, Self-*, SLAs, Performance Models and Monitoring</li>
+                    <li>Cloud-Edge Continuum Business and Legal Implications Beyond Technology</li>
+                    <li>Cloud-Edge Continuum Middleware, Stacks, Tools, Delivery Networks and Services at All Layers (XaaS)</li>
+                    <li>Cloud-Edge Continuum for Internet of Things, Smart Industries and Smart Cities</li>
+                    <li>Design and Deployment Models for the Cloud-Edge Continuum</li>
+                    <li>Economic Models and Scenarios of Use</li>
                     <li>Edge Intelligence and Cognitive Computing Continuum</li>
-                    <li>Mobile and energy-efficient use Clouds</li>
+                    <li>Mobile and Energy-efficient use the Cloud-Edge Continuum</li>
                     <li>Multi-access Edge Computing / Mobile Edge Computing</li>
-                    <li>Principles and theoretical foundations of Utility Computing, including pricing and service models</li>
-                    <li>Policy languages and programming models, such as edge-native and edge-enabled applications</li>
-                    <li>Scalability and resource management: brokering, scheduling, capacity planning, parallelism and elasticity</li>
-                    <li>Serverless computing</li>
-                    <li>Utility-driven models and mechanisms for Cloud federations</li>
-                    <li>Virtualization technologies and other enablers</li>
-                    <li>Artificial intelligence in Clouds and Edge</li>
+                    <li>Principles and Theoretical Foundations of Utility Computing, Including Pricing and Service Models</li>
+                    <li>Policy Languages and Programming Models, such as Edge-Native and Edge-Enabled Applications</li>
+                    <li>Scalability and Resource Management: Brokering, Scheduling, Capacity Planning, Parallelism and Elasticity</li>
+                    <li>Serverless Computing</li>
+                    <li>Utility-Driven Models and Mechanisms for Cloud Federations</li>
+                    <li>Virtualization Technologies and Other Enablers</li>
+                    <li>Artificial Intelligence in the Cloud-Edge Continuum</li>
                     <li>Artificial Intelligence as a Service (AIaaS)</li>
                 </ul>
                 <br />
