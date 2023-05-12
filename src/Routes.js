@@ -1,5 +1,6 @@
 import Home from "./pages/Home";
 import OrganizingCommittee from "./pages/OrganizingCommittee";
+import SteeringCommittee from "./pages/SteeringCommittee";
 import CallForPaper from "./pages/CallForPaper";
 import CallForWorkshops from "./pages/CallForWorkshops";
 import Venue from "./pages/Venue";
@@ -17,6 +18,13 @@ export default function getRoutes() {
             title: "Organizing Committee",
             href: "/organizing-committee",
             component: <OrganizingCommittee />,
+            menu: true,
+            parent: 'Committees'
+        },
+        {
+            title: "Steering Committee",
+            href: "/steering-committee",
+            component: <SteeringCommittee />,
             menu: true,
             parent: 'Committees'
         },
