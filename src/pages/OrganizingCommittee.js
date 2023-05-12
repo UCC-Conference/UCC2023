@@ -96,7 +96,7 @@ const OrganizingCommittees = () => {
 
                         <tr>
                             <th>
-                                <h3>Student Program (Co-)Chair(s)</h3>
+                                <h3>Student Program Co-Chair(s)</h3>
                             </th>
                         </tr>
                         <tr>
@@ -108,7 +108,7 @@ const OrganizingCommittees = () => {
 
                         <tr>
                             <th>
-                                <h3>Proceedings (Co-)Chair(s)</h3>
+                                <h3>Proceedings Co-Chair(s)</h3>
                             </th>
                         </tr>
                         <tr>
