@@ -2,11 +2,11 @@ import React from "react";
 import Content from "../components/elements/Content";
 import PageWrapper from "../components/elements/PageWrapper";
 
-const Committees = () => {
+const OrganizingCommittees = () => {
     return (
         <PageWrapper>
             <Content>
-                <h1>Committees</h1>
+                <h1>Organizing Committees</h1>
                 <hr />
                 <table>
                     <tbody>
@@ -133,4 +133,4 @@ const Committees = () => {
     );
 };
 
-export default Committees;
+export default OrganizingCommittees;
