@@ -7,7 +7,7 @@ const CallForWorkshops = () => {
     return (
         <PageWrapper>
             <Content>
-                <h1>Call for Workshop Proposals Submission</h1>
+                <h1>Call for Workshop Proposals</h1>
                 <hr />
                 <p>
                     16th IEEE/ACM International Conference on Utility and Cloud Computing (<strong>UCC 2023</strong>)
