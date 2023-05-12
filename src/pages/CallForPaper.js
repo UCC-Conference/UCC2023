@@ -82,6 +82,13 @@ const CallForPaper = () => {
                     Acceptance Notification: September 30, 2023<br/>
                     Camera Ready Papers Due: October 21, 2023
                 </p>
+                <br/>
+                <h2>AWARDS AND SPECIAL ISSUES</h2>
+                <p>
+                    A selection commission chaired by the UCC 2023 technical programme committee will select and acknowledge the best paper to receive an award during the conference.
+                    <br/><br/>
+                    Authors of highly rated papers from UCC 2023 will be invited to submit an extended version to special issues of prestigious journals.
+                </p>
             </Content>
         </PageWrapper>
     );
