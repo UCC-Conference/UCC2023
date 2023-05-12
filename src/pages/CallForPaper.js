@@ -64,6 +64,24 @@ const CallForPaper = () => {
                         <li>Business and Legal Implications Beyond Technology</li>
                     </ul>
                 </ol>
+                <br/>
+                <h2>PAPER SUBMISSION</h2>
+                <p>Authors are invited to submit papers electronically through the following link: <a href="https://cmt3.research.microsoft.com/UCCBDCAT2023">https://cmt3.research.microsoft.com/UCCBDCAT2023</a>.
+                    <br/><br/>
+                    Submitted manuscripts must represent original unpublished research that is not currently under review for any other conference or journal. Manuscripts are submitted in PDF format and may not exceed ten (10) ACM-formatted *double-column* pages, including figures, tables, and references. The limit is six (6) pages for workshop papers. All manuscripts will be reviewed and judged on correctness, originality,technical strength, rigour in analysis, quality of results, quality of presentation, and interest and relevance to the conference attendees. Your submission is subject to a determination that you are not under any sanctions by ACM. Accepted papers will later be converted into single-column format through the ACM TAPS process and therefore need to use the new templates that are single-column by default. Switch them to double-column for authoring your paper. This is possible in both the Word and the LaTeX templates.
+                    <br/><br/>
+                    At least one author of each paper must be registered for the conference in order for the paper to be published in the proceedings. The conference proceedings will be published by the ACM and made available online via the IEEE Xplore Digital Library and ACM Digital Library.
+                    <br/><br/>
+                    Download the <a href="https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex">LaTeX</a> or <a href="https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word">Microsoft Word</a>.
+                </p>
+                <br/>
+                <h2>IMPORTANT DATES</h2>
+                <p>
+                    Timezone: Anywhere in the world!<br/>
+                    Paper Submissions Due: August 3, 2023<br/>
+                    Acceptance Notification: September 30, 2023<br/>
+                    Camera Ready Papers Due: October 21, 2023
+                </p>
             </Content>
         </PageWrapper>
     );
