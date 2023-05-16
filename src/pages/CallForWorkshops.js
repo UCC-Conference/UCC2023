@@ -74,8 +74,10 @@ const CallForWorkshops = () => {
                 <ul>
                     <li>Applications: Games, Social Networks, Scientific Computing (e-science) and Business</li>
                     <li>Architectural and Programming models for Cloud-Edge Continuum</li>
-                    <li>Cloud-Edge Continuum management: Autonomic, Adaptive, Self-*, SLAs, Performance Models and Monitoring</li>
+                    <li>Artificial Intelligence in the Cloud-Edge Continuum</li>
+                    <li>Artificial Intelligence as a Service (AIaaS)</li>
                     <li>Cloud-Edge Continuum Business and Legal Implications Beyond Technology</li>
+                    <li>Cloud-Edge Continuum Management: Autonomic, Adaptive, Self-*, SLAs, Performance Models and Monitoring</li>
                     <li>Cloud-Edge Continuum Middleware, Stacks, Tools, Delivery Networks and Services at All Layers (XaaS)</li>
                     <li>Cloud-Edge Continuum for Internet of Things, Smart Industries and Smart Cities</li>
                     <li>Design and Deployment Models for the Cloud-Edge Continuum</li>
@@ -88,8 +90,6 @@ const CallForWorkshops = () => {
                     <li>Serverless Computing</li>
                     <li>Utility-Driven Models and Mechanisms for Cloud Federations</li>
                     <li>Virtualization Technologies and Other Enablers</li>
-                    <li>Artificial Intelligence in the Cloud-Edge Continuum</li>
-                    <li>Artificial Intelligence as a Service (AIaaS)</li>
                 </ul>
                 <br />
                 <h2>RESPONSIBILITIES</h2>
