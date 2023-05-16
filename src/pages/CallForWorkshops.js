@@ -74,15 +74,13 @@ const CallForWorkshops = () => {
                 <ul>
                     <li>Applications: Games, Social Networks, Scientific Computing (e-science) and Business</li>
                     <li>Architectural and Programming models for Cloud-Edge Continuum</li>
-                    <li>Autonomic Techniques for the Cloud-Edge Continuum</li>
                     <li>Cloud-Edge Continuum management: Autonomic, Adaptive, Self-*, SLAs, Performance Models and Monitoring</li>
                     <li>Cloud-Edge Continuum Business and Legal Implications Beyond Technology</li>
                     <li>Cloud-Edge Continuum Middleware, Stacks, Tools, Delivery Networks and Services at All Layers (XaaS)</li>
                     <li>Cloud-Edge Continuum for Internet of Things, Smart Industries and Smart Cities</li>
                     <li>Design and Deployment Models for the Cloud-Edge Continuum</li>
-                    <li>Economic Models and Scenarios of Use</li>
                     <li>Edge Intelligence and Cognitive Computing Continuum</li>
-                    <li>Mobile and Energy-efficient use the Cloud-Edge Continuum</li>
+                    <li>Mobile and Energy-efficient use of the Cloud-Edge Continuum</li>
                     <li>Multi-access Edge Computing / Mobile Edge Computing</li>
                     <li>Principles and Theoretical Foundations of Utility Computing, Including Pricing and Service Models</li>
                     <li>Policy Languages and Programming Models, such as Edge-Native and Edge-Enabled Applications</li>
