@@ -33,7 +33,7 @@ export default function getRoutes() {
             title: "Dates",
             href: "/important-dates",
             component: <Dates />,
-            menu: false
+            menu: true
         },
         {
             title: "Call for Papers",

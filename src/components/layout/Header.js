@@ -11,10 +11,12 @@ function Header() {
 
     const routes = {};
     getRoutes().forEach((route) => {
-        if (route.parent)
-            if ([route.parent] in routes && "children" in routes[route.parent]) routes[route.parent]["children"].push(route);
-            else routes[route.parent] = { parent: route.parent, level: 1, children: [route] };
-        else routes[route.href] = { level: 0, route };
+        if(route.menu) {
+            if (route.parent)
+                if ([route.parent] in routes && "children" in routes[route.parent]) routes[route.parent]["children"].push(route);
+                else routes[route.parent] = { parent: route.parent, level: 1, children: [route] };
+            else routes[route.href] = { level: 0, route };
+        }
     });
     const menuItems = Object.values(routes).map((item, i) => (
         <li key={i}>
