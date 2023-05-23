@@ -226,6 +226,13 @@ a {
 .bigHeader > div {
     flex: 1;
 }
+.bigHeader > div.right {
+    text-align: right;
+}
+.bigHeader > div.right > img {
+    width: 450px;
+    max-width: 100%;
+}
 .bigHeader > div > h1 {
     color: var(--light-grey);
     line-height: 1.5em;
