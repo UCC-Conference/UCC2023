@@ -54,7 +54,7 @@ const CallForWorkshops = () => {
                 <br />
                 <h2>IMPORTANT DATES</h2>
                 <p>
-                    <strong>Workshop Proposals Due</strong>: 31 May 2023
+                    <strong>Workshop Proposals Due</strong>: 12 June 2023
                     <br />
                     <strong>Notification of Acceptance</strong>: 15 June 2023
                     <br />
