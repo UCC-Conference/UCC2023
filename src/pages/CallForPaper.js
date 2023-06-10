@@ -1,6 +1,8 @@
 import React from "react";
 import Content from "../components/elements/Content";
 import PageWrapper from "../components/elements/PageWrapper";
+import CfpPdf from "../assets/documents/CallForPapers/UCC2023-cfp.pdf";
+import CfpTxt from "../assets/documents/CallForPapers/UCC2023-cfp.txt";
 
 const CallForPaper = () => {
     return (
@@ -8,6 +10,9 @@ const CallForPaper = () => {
             <Content>
                 <h1>Call for Papers</h1>
                 <hr/>
+                <p>
+                    [<a href={CfpPdf}>PDF</a>] - [<a href={CfpTxt}>Txt</a>]
+                </p>
                 <p>
                     The digital transformation of all areas of life is accelerated in this century by novel Cloud-Edge Continuum services, infrastructures, data platforms and cyber-physical systems. This broader scope of computing calls for technically sound contributions that combine scale with convenience and reliability. Indeed, society and economy depend on Cloud-Edge Continuum applications, delivering computing on demand in every location as a general service to the public, in analogy to conventional utilities. The engineering of such systems and applications calls for scientifically proven approaches, methods, tools and technologies.
                 </p>

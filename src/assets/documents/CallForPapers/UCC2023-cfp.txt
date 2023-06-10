@@ -1,0 +1,104 @@
+======================================================
+The 16th IEEE/ACM International Conference on 
+Utility and Cloud Computing (UCC 2023)
+
+Where: Taormina, Messina, Italy
+When: from 4th to 7th December 2023
+
+https://ucc-conference.org
+======================================================
+
+The IEEE/ACM International Conference on Utility and
+Cloud Computing (UCC) is a premier annual conference
+series aiming to provide a platform for researchers
+from both academia and industry to present new
+discoveries in the broad area of Cloud, Edge and
+Computing Continuum utility computing and applications.
+The conference features keynotes, posters, workshops and
+a student symposium. UCC 2023 will be held in
+conjunction with the 10th IEEE/ACM International
+Conference on Big Data Computing, Applications and
+Technologies (BDCAT 2023).
+
+Authors are invited to submit original, unpublished
+research manuscripts in all areas of Cloud-Edge
+Continuum for utility computing and related computing
+paradigms such as Serverless, Distributed Computing and
+Function as a Service. Topics of interest include (but
+not limited to):
+ - Resource Management for Cloud-Edge Continuum:
+    Principles and Theoretical Foundations of Utility
+    Computing; Architectural Models and Patterns to
+    Achieve Utility; Virtualization, Containerization,
+    Composition and Orchestration; Formal and
+    Qualitative Aspects; Middleware and Stacks;
+    Networking and Network Management; Saas, Paas, Iaas
+    and XaaS; Resource Management and Scalability:
+    Brokering, Scheduling, Capacity planning and
+    Elasticity; Security, Trust, Privacy, Policies and
+    Blockchains; Autonomic, Adaptive, Self-*, SLAs,
+    Management and Monitoring; Designs and Deployment
+    Models: Private, Public, Hybrid, Federated,
+    Aggregated, Inter-Cloud; High Performance Computing
+    (HPC); Performance Analysis and Modeling.
+ - Artificial Intelligence for Cloud-Edge Continuum:
+    Machine Learning Operations (MLOps); Artificial
+    Intelligence Solutions for Scheduling, Provisioning
+    and Deployment; Artificial Intelligence Solutions
+    for Orchestration; GPU as a Service (GPUaaS),
+    Artificial Intelligence as a Service (AIaaS);
+    Support for Extract/Transform/Load (ETL) or ETL
+    Pipelines; Machine Learning Cloud Frameworks;
+    Artificial Intelligence Infrastructure; Distributed,
+    Federated, and Collaborative Learning.
+ - Applications and Systems for Cloud-Edge Continuum:
+    Native Application Design, Programming Models and
+    Engineering; Serverless and Function-Based
+    Applications (FaaS); Microservices Architectures
+    Quantum Computing; Interfacing to Internet of Things
+    (IoT) Applications; Utility-Driven Models and
+    Mechanisms in All Domains (e.g., Smart Cities,
+    Mobility, Healthcare, Industry 4.0); Micro Data
+    Centers; Interfacing to Mobile Devices: Management,
+    Hierarchy Models and Business Models;
+    Energy-Efficiency and Sustainability; Development
+    Operations (DevOps); Economic and Business Models;
+    Business and Legal Implications Beyond Technology.
+
+>> PAPER SUBMISSION
+Authors are invited to submit papers electronically
+through the following link:
+https://cmt3.research.microsoft.com/UCCBDCAT2023
+
+Submitted manuscripts must represent original
+unpublished research that is not currently under review
+for any other conference or journal. Manuscripts are
+submitted in PDF format and may not exceed ten (10)
+ACM-formatted *double-column* pages, including figures,
+tables, and references. All manuscripts will be reviewed
+and judged on correctness, originality, technical
+strength, rigor in analysis, quality of results, quality
+of presentation, and interest and relevance to the
+conference attendees. Your submission is subject to a
+determination that you are not under any sanctions by
+ACM.
+
+At least one author of each paper must be registered for
+the conference in order for the paper to be published in
+the proceedings. The conference proceedings will be
+published by the ACM and made available online via the
+IEEE Xplore Digital Library and ACM Digital Library.
+
+>> IMPORTANT DATES
+Timezone: Anywhere in the world! \newline
+Paper Submissions Due: August 3, 2023 \newline
+Acceptance Notification: September 30, 2023 \newline
+Camera Ready Papers Due: October 21, 2023
+
+>> ORGANIZING COMMITTEE
+General Co-Chair(s)
+    Massimo Villari, University of Messina, Italy
+    Omer Rana, Cardiff University, UK
+Program Co-Chair(s)
+    Lorenzo Carnevale, University of Messina, Italy
+    Song Fu, University of North Texas, USA
