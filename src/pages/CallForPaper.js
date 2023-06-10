@@ -11,7 +11,7 @@ const CallForPaper = () => {
                 <h1>Call for Papers</h1>
                 <hr/>
                 <p>
-                    [<a href={CfpPdf}>PDF</a>] - [<a href={CfpTxt}>Txt</a>]
+                    [<a href={CfpPdf} target="_blank" rel="noreferrer">PDF</a>] - [<a href={CfpTxt} target="_blank" rel="noreferrer">Txt</a>]
                 </p>
                 <p>
                     The digital transformation of all areas of life is accelerated in this century by novel Cloud-Edge Continuum services, infrastructures, data platforms and cyber-physical systems. This broader scope of computing calls for technically sound contributions that combine scale with convenience and reliability. Indeed, society and economy depend on Cloud-Edge Continuum applications, delivering computing on demand in every location as a general service to the public, in analogy to conventional utilities. The engineering of such systems and applications calls for scientifically proven approaches, methods, tools and technologies.
