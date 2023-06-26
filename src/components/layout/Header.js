@@ -62,14 +62,14 @@ function Header() {
                     </a>
                     <div className="dropdown-menu">
                         {item.children.map((link, j) => (
-                            <NavLink key={"a" + j} to={link.href}>
+                            <NavLink key={"a" + j} to={link.href} target={link.external ? "_blank" : null}>
                                 {link.title}
                             </NavLink>
                         ))}
                     </div>
                 </div>
             ) : (
-                <NavLink to={item.route.href} onClick={() => setMenuOpen(false)}>
+                <NavLink to={item.route.href} onClick={() => setMenuOpen(false)} target={item.route.external ? "_blank" : null}>
                     {item.route.title}
                 </NavLink>
             )}
