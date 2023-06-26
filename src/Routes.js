@@ -56,6 +56,14 @@ export default function getRoutes() {
             menu: true
         },
         {
+            title: "2022",
+            href: "https://nsfcac.github.io/UCC2022/",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
             title: "Privacy Policy",
             href: "/privacy-policy",
             component: <PrivacyPolicy />,

@@ -33,14 +33,14 @@ function Header() {
                     <div className="dropdown-menu">
                         <span class="arrow-up" />
                         {item.children.map((link, j) => (
-                            <NavLink key={"a" + j} to={link.href}>
+                            <NavLink key={"a" + j} to={link.href} target={link.external ? "_blank" : null}>
                                 {link.title}
                             </NavLink>
                         ))}
                     </div>
                 </div>
             ) : (
-                <NavLink key={i} to={item.route.href}>
+                <NavLink key={i} to={item.route.href} target={item.route.external ? "_blank" : null}>
                     {item.route.title}
                 </NavLink>
             )}
