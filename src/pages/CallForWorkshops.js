@@ -20,11 +20,7 @@ const CallForWorkshops = () => {
                     <strong>4-7 Dec. 2023</strong>
                 </p>
                 <p>
-                    Workshop inquiries should be sent by e-mail to the workshops chairs:
-                    <br />
-                    Luiz Bittencourt: <i>bit@ic.unicamp.br</i>
-                    <br />
-                    Valeria Cardellini: <i>cardellini@ing.uniroma2.it</i>
+                    Workshop inquiries should be sent by e-mail to the workshops chairs (Luiz Bittencourt, Valeria Cardellini
                 </p>
                 <br />
                 <h2>CONTEXT & SCOPE</h2>
