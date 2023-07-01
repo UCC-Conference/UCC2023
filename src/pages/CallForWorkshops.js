@@ -20,9 +20,8 @@ const CallForWorkshops = () => {
                     <strong>4-7 Dec. 2023</strong>
                 </p>
                 <p>
-                    Workshop inquiries should be sent by e-mail to the workshops chairs (Luiz Bittencourt, Valeria Cardellini
+                    Workshop inquiries should be sent by e-mail to the workshops chairs (Luiz Bittencourt, Valeria Cardellini)
                 </p>
-                <br />
                 <h2>CONTEXT & SCOPE</h2>
                 <p>
                 The IEEE/ACM International Conference on Utility and Cloud Computing is a premier IEEE/ACM conference covering all areas related to utility computing and cloud and edge computing services.
