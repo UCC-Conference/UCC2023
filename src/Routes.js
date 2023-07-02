@@ -71,6 +71,22 @@ export default function getRoutes() {
             external: true
         },
         {
+            title: "2021",
+            href: "https://www.cs.le.ac.uk/events/UCC2021/",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2020",
+            href: "https://www.cs.le.ac.uk/events/UCC2020/",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },   
+        {
             title: "Privacy Policy",
             href: "/privacy-policy",
             component: <PrivacyPolicy />,
