@@ -54,7 +54,7 @@ export default function getRoutes() {
             title: "Workshops",
             href: "/workshops",
             component: <Workshops />,
-            menu: false
+            menu: true
         },
         {
             title: "Venue",

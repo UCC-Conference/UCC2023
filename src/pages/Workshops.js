@@ -3,7 +3,7 @@ import Content from "../components/elements/Content";
 import PageWrapper from "../components/elements/PageWrapper";
 import { Link } from "react-router-dom";
 
-const Dates = () => {
+const Workshops = () => {
     return (
         <PageWrapper>
             <Content>
@@ -56,4 +56,4 @@ const Dates = () => {
     );
 };
 
-export default Dates;
+export default Workshops;
