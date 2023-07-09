@@ -11,7 +11,7 @@ const Workshops = () => {
                 <hr />
                 <ul>
                     <li>
-                        <strong>International Workshop on Intelligent and Adaptive Edge-Cloud Operations and Services (Intel4EC 2023)</strong>
+                    <Link to="https://www.intel4ec-workshop.nl/" target="_blank">International Workshop on Intelligent and Adaptive Edge-Cloud Operations and Services (Intel4EC 2023)</Link>
                         <br />
                         Chairs: Nishant Saurabh, Dragi Kimovski, Zhiming Zhao
                     </li>
@@ -26,7 +26,7 @@ const Workshops = () => {
                         Chairs: Tomáš Bureš, Petr Tůma, Omer Rana
                     </li>
                     <li>
-                        <strong>5th International Workshop on Cloud, IoT and Fog Systems (CIFS 2023)</strong>
+                        <Link to="http://cifs.servicelaboratory.ch/cifs2023/" target="_blank">5th International Workshop on Cloud, IoT and Fog Systems (CIFS 2023)</Link>
                         <br />
                         Chairs: Josef Spillner, Cihan Sakman, Cristina L. Abad, Urs Seiler
                     </li>
@@ -36,12 +36,12 @@ const Workshops = () => {
                         Chairs: Matteo Nardelli, Gabriele Russo Russo, Carlo Vallati
                     </li>
                     <li>
-                        <strong>12th International Workshop on Cloud and Edge Computing and Applications Management (CloudAM 2023)</strong>
+                    <Link to="https://sites.google.com/unizar.es/cloudam2023" target="_blank">12th International Workshop on Cloud and Edge Computing and Applications Management (CloudAM 2023)</Link>
                         <br />
                         Chairs: Abdellah Chehri, Carlo Puliafito, Luiz Bittencourt
                     </li>
                     <li>
-                        <strong>International Workshop on the Cloud-Edge-IoT Continuum for Hyper-Distributed Applications and Services (CEICO 2023)</strong>
+                        <Link to="https://github.zhaw.ch/pages/milt/CEICO/" target="_blank">International Workshop on the Cloud-Edge-IoT Continuum for Hyper-Distributed Applications and Services (CEICO 2023)</Link>
                         <br />
                         Chairs: Symeon Papavassiliou, Anastasios Zafeiropoulos, Leonardo Militano, Giovanni Toffetti
                     </li>
