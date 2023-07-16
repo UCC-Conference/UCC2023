@@ -87,6 +87,86 @@ export default function getRoutes() {
             external: true
         },   
         {
+            title: "2019",
+            href: "https://dl.acm.org/doi/proceedings/10.1145/3344341",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2018",
+            href: "http://uccbdcat18.cloudlab.zhaw.ch/ucc2018/welcome-to-ucc-2018.html",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2017",
+            href: "https://dl.acm.org/doi/proceedings/10.1145/3147213",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2016",
+            href: "https://ieeexplore.ieee.org/xpl/conhome/7876288/proceeding",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2015",
+            href: "https://cyprusconferences.org/ucc2015",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2014",
+            href: "https://ieeexplore.ieee.org/xpl/conhome/7027114/proceeding",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2013",
+            href: "https://ieeexplore.ieee.org/xpl/conhome/6733783/proceeding",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },
+        {
+            title: "2012",
+            href: "https://ieeexplore.ieee.org/xpl/conhome/6423131/proceeding",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },    
+        {
+            title: "2011",
+            href: "https://ieeexplore.ieee.org/xpl/conhome/6123165/proceeding",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },    
+        {
+            title: "2010",
+            href: "http://www.manjrasoft.com/ucc2010/",
+            component: null,
+            menu: true,
+            parent: 'Previous\neditions',
+            external: true
+        },    
+        {
             title: "Privacy Policy",
             href: "/privacy-policy",
             component: <PrivacyPolicy />,
