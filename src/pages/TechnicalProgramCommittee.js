@@ -46,7 +46,7 @@ const SteeringCommittee = () => {
                     <tr><td>Sukhpal Singh Gill, Queen Mary University of London, United Kingdom</td></tr>
                     <tr><td>Valeria Cardellini, University of Roma "Tor Vergata", Italy</td></tr>
                     <tr><td>Vasilios Andrikopoulos, University of Groningen, Netherland</td></tr>
-                    <tr><td>Vincenzo De Maio, Technische UniversitÃ¤t Wien, Austria</td></tr>
+                    <tr><td>Vincenzo De Maio, Technische Universität Wien, Austria</td></tr>
                     <tr><td>Vladimir Vlassov, KTH Royal Institute of Technology, Sweden</td></tr>
                     <tr><td>Xiaoyi Lu, University of California, USA</td></tr>
                     <tr><td>Yao Liu, Rutgers University, USA</td></tr>
