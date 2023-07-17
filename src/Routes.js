@@ -1,6 +1,7 @@
 import Home from "./pages/Home";
 import OrganizingCommittee from "./pages/OrganizingCommittee";
 import SteeringCommittee from "./pages/SteeringCommittee";
+import TechnicalProgramCommittee from "./pages/TechnicalProgramCommittee";
 import CallForPaper from "./pages/CallForPaper";
 import CallForWorkshops from "./pages/CallForWorkshops";
 import Venue from "./pages/Venue";
@@ -27,6 +28,13 @@ export default function getRoutes() {
             title: "Steering Committee",
             href: "/steering-committee",
             component: <SteeringCommittee />,
+            menu: true,
+            parent: 'Committees'
+        },
+        {
+            title: "Technical Program Committee",
+            href: "/technical-program-committee",
+            component: <TechnicalProgramCommittee />,
             menu: true,
             parent: 'Committees'
         },
