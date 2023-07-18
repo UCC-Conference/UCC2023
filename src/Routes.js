@@ -175,7 +175,7 @@ export default function getRoutes() {
             external: true
         },  
         {
-            title: "2009",
+            title: "Cloud 2010",
             href: "http://www.cloudbus.org/cloud2010/Welcome.html",
             component: null,
             menu: true,
