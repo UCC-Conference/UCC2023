@@ -66,6 +66,9 @@ const OrganizingCommittees = () => {
                         <tr>
                             <td>Beilei Jiang, University of North Texas, USA</td>
                         </tr>
+                        <tr>
+                            <td>Patricia Takako Endo, University of Pernambuco, Brazil</td>
+                        </tr>
     
                         <tr>
                             <th>
