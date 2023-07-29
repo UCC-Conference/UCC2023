@@ -2,6 +2,8 @@ import React from "react";
 import Content from "../components/elements/Content";
 import PageWrapper from "../components/elements/PageWrapper";
 import { Link } from "react-router-dom";
+import CfpPdf from "../assets/documents/CallForPosters/Call_for_Posters.pdf";
+import CfpTxt from "../assets/documents/CallForPosters/Call_for_posters.txt";
 
 const CallForPosters = () => {
   return (
@@ -9,6 +11,9 @@ const CallForPosters = () => {
       <Content>
         <h1>Call for Posters</h1>
         <hr />
+        <p>
+            [<a href={CfpPdf} target="_blank" rel="noreferrer">PDF</a>] - [<a href={CfpTxt} target="_blank" rel="noreferrer">Txt</a>]
+        </p>
         <h2>Submissions</h2>
         <p>
           Authors are invited to submit posters electronically through the
