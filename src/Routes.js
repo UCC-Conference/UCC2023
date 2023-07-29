@@ -8,7 +8,8 @@ import Venue from "./pages/Venue";
 import Workshops from "./pages/Workshops";
 import Dates from "./pages/Dates";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
-import CallForPosters from "../pages/CallForPosters";
+import CallForPosters from "./pages/CallForPosters";
+import PhDSymposium from "./pages/PhDSymposium";
 
 export default function getRoutes() {
     return [
@@ -63,6 +64,13 @@ export default function getRoutes() {
             title: "Call for Posters",
             href: "/call-for-posters",
             component: <CallForPosters />,
+            menu: true,
+            parent: 'Calls'
+        },
+        {
+            title: "PhD Symposium",
+            href: "/phd-symposium",
+            component: <PhDSymposium />,
             menu: true,
             parent: 'Calls'
         },
