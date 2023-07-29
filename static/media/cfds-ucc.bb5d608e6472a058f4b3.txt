@@ -1,0 +1,41 @@
+
+Doctoral Symposium
+Welcome to the Doctoral Symposium of the 16th IEEE/ACM International Conference on Utility and Cloud Computing (UCC). The Doctoral Symposium is a forum for PhD students to present their work and receive feedback and guidance. The aim is to provide a space for PhD students to meet and interact with peers, and to receive constructive feedback about their work from experts in the field of cloud computing.
+
+UCC 2023 will be hosted at Taormina (Italy) by the University of Messina. Taormina is the most touristic city in Sicily.
+
+The program will feature technical presentations by PhD students, general research advice, and discussions in panel and open formats.
+
+We invite submissions from PhD students at any stage of their doctoral studies. Submission is open to all areas of Cloud and Utility Computing as per the UCC main track call for papers. Submissions should follow the following structure:
+* Abstract
+* Background
+* Problem Statement
+* Related Work
+* Overview of Proposed Work
+* Preliminary Results (if any)
+* Planned Work
+Submissions should be no longer than two (2) single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (ACM conference style), including figures, tables and references.
+
+Manuscripts are submitted via the Microsoft CMT Conference Management System: https://cmt3.research.microsoft.com/UCCBDCAT2023.
+All manuscripts will be reviewed and judged on correctness, originality, technical strength, rigor in analysis, quality of results, quality of presentation, and interest and relevance to the conference attendees. The accepted papers will be published on the UCC websites.
+
+During all days of the conference, group and/or face-to-face mentorship sessions will be organized with academic and industrial researchers
+Important Dates
+Time zone: Anywhere in the world!
+
+October 15, 2023 - Submission Due Date
+
+October 25, 2023 - Notification of Acceptance
+
+October 31, 2023 - Camera-ready Due Date
+
+Info
+Francesco Martella ? fmartella@unime.it
+
+Amelie Chi Zhou - chi.zhou@szu.edu.cn
+	
+	     			   	                     
+
+
+https://ucc-conference.org
+
