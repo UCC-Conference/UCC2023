@@ -76,8 +76,8 @@ export default function getRoutes() {
             parent: 'Calls'
         },
         {
-            title: "PhD Symposium",
-            href: "/phd-symposium",
+            title: "Call for Doctoral Symposium",
+            href: "/call-for-symposium",
             component: <PhDSymposium />,
             menu: true,
             parent: 'Calls'
