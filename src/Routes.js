@@ -10,6 +10,7 @@ import Dates from "./pages/Dates";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import CallForPosters from "./pages/CallForPosters";
 import PhDSymposium from "./pages/PhDSymposium";
+import KeynoteSpeakers from "./pages/KeynoteSpeakers";
 
 export default function getRoutes() {
     return [
@@ -18,6 +19,13 @@ export default function getRoutes() {
             href: "/",
             component: <Home/>,
             menu: true
+        },
+        {
+            title: "Keynote Speakers",
+            href: "/keynote-speakers",
+            component: <KeynoteSpeakers />,
+            menu: true,
+            parent: 'Program'
         },
         {
             title: "Organizing Committee",

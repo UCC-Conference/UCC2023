@@ -506,6 +506,16 @@ p {
     background-color: var(--primary-dark);
 }
 
+.keynote-block {
+    border: 1px solid var(--primary);
+    border-radius: 10px;
+    padding: 0 20px;
+    margin-bottom: 30px;
+}
+.keynote-block > h3 {
+    margin-top: -20px;
+}
+
 @media only screen and (max-width: 1056px) {
     .bigHeader > div > h1 {
         font-size: 2em;
