@@ -8,6 +8,7 @@ import Venue from "./pages/Venue";
 import Workshops from "./pages/Workshops";
 import Dates from "./pages/Dates";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
+import CallForPosters from "../pages/CallForPosters";
 
 export default function getRoutes() {
     return [
@@ -55,6 +56,13 @@ export default function getRoutes() {
             title: "Call for Workshops",
             href: "/call-for-workshops",
             component: <CallForWorkshops />,
+            menu: true,
+            parent: 'Calls'
+        },
+        {
+            title: "Call for Posters",
+            href: "/call-for-posters",
+            component: <CallForPosters />,
             menu: true,
             parent: 'Calls'
         },
