@@ -1,8 +1,8 @@
 import React from "react";
 import Content from "../components/elements/Content";
 import PageWrapper from "../components/elements/PageWrapper";
-import CfpPdf from "../assets/documents/CallForPapers/UCC2023-cfp.pdf";
-import CfpTxt from "../assets/documents/CallForPapers/UCC2023-cfp.txt";
+import CfpPdf from "../assets/documents/CallForPapers/UCC2023-cfp_20220803.pdf";
+import CfpTxt from "../assets/documents/CallForPapers/UCC2023-cfp_20220803.txt";
 
 const CallForPaper = () => {
     return (
@@ -83,7 +83,7 @@ const CallForPaper = () => {
                 <h2>IMPORTANT DATES</h2>
                 <p>
                     Timezone: Anywhere in the world!<br/>
-                    Paper Submissions Due: August 3, 2023<br/>
+                    Paper Submissions Due: August 17, 2023<br/>
                     Acceptance Notification: September 30, 2023<br/>
                     Camera Ready Papers Due: October 21, 2023
                 </p>
