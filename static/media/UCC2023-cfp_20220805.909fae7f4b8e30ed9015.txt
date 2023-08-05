@@ -72,8 +72,9 @@ https://cmt3.research.microsoft.com/UCCBDCAT2023
 
 Submitted manuscripts must represent original
 unpublished research that is not currently under review
-for any other conference or journal. Manuscripts are
-submitted in PDF format and may not exceed ten (10)
+for any other conference or journal. All proposals 
+undergo a double-blind peer-review process. Manuscripts 
+are submitted in PDF format and may not exceed ten (10)
 ACM-formatted *double-column* pages, including figures,
 tables, and references. All manuscripts will be reviewed
 and judged on correctness, originality, technical
