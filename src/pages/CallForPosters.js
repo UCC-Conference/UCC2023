@@ -2,8 +2,8 @@ import React from "react";
 import Content from "../components/elements/Content";
 import PageWrapper from "../components/elements/PageWrapper";
 import { Link } from "react-router-dom";
-import CfpPdf from "../assets/documents/CallForPosters/Call_for_Posters.pdf";
-import CfpTxt from "../assets/documents/CallForPosters/Call_for_posters.txt";
+import CfpPdf from "../assets/documents/CallForPosters/Call_for_Posters_20230817.pdf";
+import CfpTxt from "../assets/documents/CallForPosters/Call_for_posters_20230817.txt";
 
 const CallForPosters = () => {
   return (
@@ -36,7 +36,7 @@ const CallForPosters = () => {
         <p>
             <strong>Timezone</strong>: Anyware in the world!
             <br />
-            <strong>Poster submission due</strong>: 17 August 2023
+            <strong>Poster submission due</strong>: 31 August 2023
             <br />
             <strong>Notification of Acceptance</strong>: 30 September 2023
             <br />
