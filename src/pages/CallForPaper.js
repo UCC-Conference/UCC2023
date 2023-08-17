@@ -1,8 +1,8 @@
 import React from "react";
 import Content from "../components/elements/Content";
 import PageWrapper from "../components/elements/PageWrapper";
-import CfpPdf from "../assets/documents/CallForPapers/UCC2023-cfp_20220805.pdf";
-import CfpTxt from "../assets/documents/CallForPapers/UCC2023-cfp_20220805.txt";
+import CfpPdf from "../assets/documents/CallForPapers/UCC2023-cfp_20230817.pdf";
+import CfpTxt from "../assets/documents/CallForPapers/UCC2023-cfp_20230817.txt";
 
 const CallForPaper = () => {
     return (
