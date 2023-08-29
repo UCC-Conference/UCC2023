@@ -21,7 +21,7 @@ const Workshops = () => {
                         Chairs: Sukhpal Singh Gill, Minxian Xu, Omer Rana, Giancarlo Fortino
                     </li>
                     <li>
-                        <strong>Performance-Driven Adaptive Edge/Cloud Environments (PACE 2023)</strong>
+                        <Link to="https://pace-workshop.github.io/" target="_blank">Performance-Driven Adaptive Edge/Cloud Environments (PACE 2023)</Link>
                         <br />
                         Chairs: Tomáš Bureš, Petr Tůma, Omer Rana
                     </li>
