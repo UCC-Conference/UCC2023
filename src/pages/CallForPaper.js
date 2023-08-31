@@ -1,8 +1,8 @@
 import React from "react";
 import Content from "../components/elements/Content";
 import PageWrapper from "../components/elements/PageWrapper";
-import CfpPdf from "../assets/documents/CallForPapers/UCC2023-cfp_20230817.pdf";
-import CfpTxt from "../assets/documents/CallForPapers/UCC2023-cfp_20230817.txt";
+import CfpPdf from "../assets/documents/CallForPapers/UCC2023-cfp_20230831.pdf";
+import CfpTxt from "../assets/documents/CallForPapers/UCC2023-cfp_20230831.txt";
 
 const CallForPaper = () => {
     return (
@@ -84,9 +84,9 @@ Manuscripts are submitted in PDF format and may not exceed ten (10) ACM-formatte
                 <h2>IMPORTANT DATES</h2>
                 <p>
                     Timezone: Anywhere in the world!<br/>
-                    Paper Submissions Due: August 31, 2023<br/>
-                    Acceptance Notification: September 30, 2023<br/>
-                    Camera Ready Papers Due: October 21, 2023
+                    Paper Submissions Due: September 17, 2023<br/>
+                    Acceptance Notification: October 21, 2023<br/>
+                    Camera Ready Papers Due: October 31, 2023
                 </p>
                 <br/>
                 <h2>AWARDS AND SPECIAL ISSUES</h2>
