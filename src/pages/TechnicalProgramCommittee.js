@@ -74,7 +74,6 @@ const SteeringCommittee = () => {
                         <tr><td>Schahram Dustar, Vienna University of Technology, Austria</td></tr>
                         <tr><td>Shadi Ibrahim, Inria Rennes, France</td></tr>
                         <tr><td>Shrideep Pallickara, Colorado State University, USA</td></tr>
-                        <tr><td></td></tr>
                         <tr><td>Simon Caton, University College Dublin, Ireland</td></tr>
                         <tr><td>Sukhpal Singh Gill, Queen Mary University of London, United Kingdom</td></tr>
                         <tr><td>Thomas Fahringer, UIBK, Austria</td></tr>
