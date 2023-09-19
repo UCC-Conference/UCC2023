@@ -34,7 +34,7 @@ const CallForPosters = () => {
 
         <h2>Important Dates</h2>
         <p>
-            <strong>Timezone</strong>: Anyware in the world!
+            <strong>Timezone</strong>: Anywhere in the world!
             <br />
             <strong>Poster submission due</strong>: 17 October 2023
             <br />
