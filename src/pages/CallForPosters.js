@@ -3,7 +3,7 @@ import Content from "../components/elements/Content";
 import PageWrapper from "../components/elements/PageWrapper";
 import { Link } from "react-router-dom";
 import CfpPdf from "../assets/documents/CallForPosters/Call_for_Posters_20230918.pdf";
-import CfpTxt from "../assets/documents/CallForPosters/Call_for_posters_20230918txt";
+import CfpTxt from "../assets/documents/CallForPosters/Call_for_posters_20230918.txt";
 
 const CallForPosters = () => {
   return (
