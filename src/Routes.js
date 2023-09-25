@@ -9,6 +9,7 @@ import Workshops from "./pages/Workshops";
 import Dates from "./pages/Dates";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import CallForPosters from "./pages/CallForPosters";
+import CallForArtifacts from "./pages/CallForArtifacts";
 import PhDSymposium from "./pages/PhDSymposium";
 import KeynoteSpeakers from "./pages/KeynoteSpeakers";
 
@@ -62,9 +63,23 @@ export default function getRoutes() {
             parent: 'Calls'
         },
         {
+            title: "Call for Artifacts",
+            href: "/call-for-artifacts",
+            component: <CallForArtifacts />,
+            menu: true,
+            parent: 'Calls'
+        },
+        {
             title: "Call for Workshops",
             href: "/call-for-workshops",
             component: <CallForWorkshops />,
+            menu: true,
+            parent: 'Calls'
+        },
+        {
+            title: "Call for Posters",
+            href: "/call-for-posters",
+            component: <CallForPosters />,
             menu: true,
             parent: 'Calls'
         },

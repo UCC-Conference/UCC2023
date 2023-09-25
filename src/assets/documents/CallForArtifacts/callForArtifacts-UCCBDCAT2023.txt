@@ -1,0 +1,63 @@
+# UCC/BDCAT’23 Call for Artifacts
+
+## Overview
+
+As reproducibility and availability of artifacts -or lack thereof- affect 
+the impact and visibility of a paper, computer science conferences are 
+putting in place artifact evaluation tracks.
+
+An artifact of a paper is an element that extends beyond the document itself, 
+this can be software, datasets, environment configuration, workflow 
+definition, hardware, benchmarks, scripts to run experiments.
+
+Based on the success and experience of artifact evaluation for similar 
+conferences, this year UCC/BDCAT 2023 will evaluate artifacts in a more 
+standardized way than previous years. In particular, the process will be 
+single-blinded, it will use a special track using Microsoft CMT and a timeline 
+will need to be respected by both the authors and the evaluation committee.
+
+Although the artifacts will be evaluated after acceptance notification, we 
+encourage all interested authors to prepare and register artifacts well in 
+advance.
+
+## Artifact Evaluation Organization and Evaluation
+
+The goal of the artifact evaluation track is to award badges to accepted papers. 
+These badges will be based on the [NISO Reproducibility Badging and Definitions 
+Standard]( https://www.niso.org/publications/rp-31-2021-badging) and the [ACM 
+Reproducibility Standard]( https://www.acm.org/publications/artifacts).
+
+The badges available are (in an incremental inclusive order) Artifacts Available, 
+Artifacts Evaluated-Functional and Results Replicated. Authors should choose the 
+desired badge based on the maturity and expected reproducibility of their work.
+
+All papers submitted to UCC/BDCAT 2023 are encouraged to submit an Artifact 
+Description using a form to be provided). For evaluating the reproducibility of 
+the experiments, a complete description of the experiment workflow will be asked, 
+together with an estimation of the execution time and a description of the expected 
+results.
+
+The Artifact Description documentation should include version-controlled software 
+and data repositories such as Zenodo, FigShare, Dryad, GitHub, GitLab. Authors 
+should consider providing the most suitable packaging for the paper’s artifact, 
+this could be: source code, container/VM, binary installer, live web deployment, 
+access to special hardware or cloud services (with security precautions concerning 
+access by the reviewer).
+
+A single-blinded evaluation will be done, and the committee will validate and 
+evaluate the completion of the form as well as the artifact accessibility.
+
+## Important Dates
+
+- Artifact abstract registration deadline: September 30, 2023
+- (paper) Acceptance notification to paper authors: October 21, 2023
+- (paper) Camera-ready deadline: October 31, 2023
+- Artifact submission deadline: November 3, 2023
+- Response period: November 17, 2023 – November 22, 2023
+- Artifact decisions announcement: November 30, 2023
+- Badges visible on published paper records in ACM DL: around December 2023
+
+## Reproducibility Committee Co-Chairs
+
+Pamela Delgado, University of Applied Sciences Western Switzerland (HES-SO)
+Joseph Spillner, Zurich University of Applied Sciences, Switzerland (ZHAW)
