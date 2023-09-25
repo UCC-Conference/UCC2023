@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.051e0ff3.css",
-    "main.js": "/static/js/main.4a1540da.js",
+    "main.js": "/static/js/main.75dfa3d4.js",
     "static/media/2T6A1979.JPG": "/static/media/2T6A1979.7bce3b15ef83fa3b55ea.JPG",
     "static/media/2T6A1967.JPG": "/static/media/2T6A1967.2dea4b358d3c1fddfc5d.JPG",
     "static/media/2T6A1970.JPG": "/static/media/2T6A1970.74b6ad6ffdd8cb802c93.JPG",
@@ -24,17 +24,19 @@
     "static/media/FakhriKarray.jpg": "/static/media/FakhriKarray.331dbb9695bc871184d0.jpg",
     "static/media/UCC2023-cfp_20230831.pdf": "/static/media/UCC2023-cfp_20230831.edf2924a64398bf8c292.pdf",
     "static/media/UCC-2023.png": "/static/media/UCC-2023.0368e535e981ce8594f6.png",
+    "static/media/callForArtifacts-UCCBDCAT2023.pdf": "/static/media/callForArtifacts-UCCBDCAT2023.3ff3d50402d076c7e896.pdf",
     "static/media/cfds-ucc.pdf": "/static/media/cfds-ucc.b7c2ebffe83ffd0f3e85.pdf",
     "static/media/Call_for_Posters_20230918.pdf": "/static/media/Call_for_Posters_20230918.cdc652300b69a13e8e39.pdf",
     "static/media/UCC2023-cfp_20230831.txt": "/static/media/UCC2023-cfp_20230831.85b0d507bd9a91ffae99.txt",
     "static/media/Call_for_posters_20230918.txt": "/static/media/Call_for_posters_20230918.f66e8cdb26e37a18278f.txt",
+    "static/media/callForArtifacts-UCCBDCAT2023.txt": "/static/media/callForArtifacts-UCCBDCAT2023.6ce3f000cd031b72d5eb.txt",
     "static/media/cfds-ucc.txt": "/static/media/cfds-ucc.68ce28323d6176360383.txt",
     "index.html": "/index.html",
     "main.051e0ff3.css.map": "/static/css/main.051e0ff3.css.map",
-    "main.4a1540da.js.map": "/static/js/main.4a1540da.js.map"
+    "main.75dfa3d4.js.map": "/static/js/main.75dfa3d4.js.map"
   },
   "entrypoints": [
     "static/css/main.051e0ff3.css",
-    "static/js/main.4a1540da.js"
+    "static/js/main.75dfa3d4.js"
   ]
 }
