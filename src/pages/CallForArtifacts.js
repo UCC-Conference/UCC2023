@@ -31,7 +31,7 @@ const CallForWorkshops = () => {
 
                 <h2>Artifact Evaluation Organization and Evaluation</h2>
                 <p>
-                The goal of the artifact evaluation track is to award badges to accepted papers. These badges will be based on the [NISO Reproducibility Badging and Definitions Standard](<Link to="https://www.niso.org/publications/rp-31-2021-badging">https://www.niso.org/publications/rp-31-2021-badging</Link>) and the [ACM Reproducibility Standard](<Link to="https://www.acm.org/publications/artifacts">https://www.acm.org/publications/artifacts</Link>). 
+                The goal of the artifact evaluation track is to award badges to accepted papers. These badges will be based on the <Link to="https://www.niso.org/publications/rp-31-2021-badging">NISO Reproducibility Badging and Definitions Standard</Link> and the <Link to="https://www.acm.org/publications/artifacts">ACM Reproducibility Standard</Link>. 
                 </p>
                 <p>
                 The badges available are (in an incremental inclusive order) Artifacts Available, Artifacts Evaluated-Functional and Results Replicated. Authors should choose the desired badge based on the maturity and expected reproducibility of their work. 
