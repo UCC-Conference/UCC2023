@@ -60,4 +60,4 @@ evaluate the completion of the form as well as the artifact accessibility.
 ## Reproducibility Committee Co-Chairs
 
 Pamela Delgado, University of Applied Sciences Western Switzerland (HES-SO)
-Joseph Spillner, Zurich University of Applied Sciences, Switzerland (ZHAW)
+Josef Spillner, Zurich University of Applied Sciences, Switzerland (ZHAW)
