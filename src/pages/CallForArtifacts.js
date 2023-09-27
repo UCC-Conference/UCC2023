@@ -66,7 +66,7 @@ const CallForWorkshops = () => {
                 <h2>Reproducibility Committee Co-Chairs </h2>
                 <p>
                 Pamela Delgado, University of Applied Sciences Western Switzerland (HES-SO) <br/>
-                Joseph Spillner, Zurich University of Applied Sciences, Switzerland (ZHAW) 
+                Josef Spillner, Zurich University of Applied Sciences, Switzerland (ZHAW) 
                 </p>
             </Content>
         </PageWrapper>
