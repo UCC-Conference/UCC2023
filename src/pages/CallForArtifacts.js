@@ -48,7 +48,7 @@ const CallForWorkshops = () => {
                 
                 <h2>Important Dates</h2>
                 <p>
-                    <strong>Artifact abstract registration deadline</strong>: September 30, 2023
+                    <strong>Artifact abstract registration deadline</strong>: October 7, 2023
                     <br />
                     <strong>(paper) Acceptance notification to paper authors</strong>: October 21, 2023
                     <br />

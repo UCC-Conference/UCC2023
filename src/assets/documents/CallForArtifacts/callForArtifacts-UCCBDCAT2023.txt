@@ -49,7 +49,7 @@ evaluate the completion of the form as well as the artifact accessibility.
 
 ## Important Dates
 
-- Artifact abstract registration deadline: September 30, 2023
+- Artifact abstract registration deadline: October 7, 2023
 - (paper) Acceptance notification to paper authors: October 21, 2023
 - (paper) Camera-ready deadline: October 31, 2023
 - Artifact submission deadline: November 3, 2023
