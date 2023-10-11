@@ -123,7 +123,6 @@ const Registrations = () => {
             <li>Proceedings: abstracts and papers will be included in the proceedings only if at least one author has registered and paid the registration fee. One registration covers maximum 1 (one) paper.</li>
             <li>Attendance at the welcome event;</li>
             <li>Lunches and refreshments (from Dec 4th to 7th; on Oct 4th the lunch will be in Messina);</li>
-            <li>Conference social event;</li>
             <li>Conference Dinner (additional tickets may be purchased for € XXX,00).</li>
           </ul>
         </p>
