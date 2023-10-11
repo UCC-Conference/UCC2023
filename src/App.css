@@ -573,6 +573,73 @@ p {
     border-left: 1px solid var(--primary);
     border-right: 1px solid var(--primary);
 }
+div.center-p p {
+    text-align: center;
+}
+
+.text-centered {
+    text-align: center;
+}
+h2.text-centered {
+    color: var(--primary)
+}
+div.fees-cards {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+div.card-fee {
+    background-color: #fff;
+    min-width: 250px;
+    max-width: 400px;
+    box-shadow: 0 32px 88px rgba(20,35,25,.24);
+    padding: 20px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+div.card-fee > * {
+    flex: 0;
+}
+div.card-fee > div.space {
+    flex: 1;
+}
+div.card-fee > p {
+    font-size: 2.5em;
+    font-weight: 600;
+    text-align: center;
+}
+div.card-fee > div > p {
+    border-top: 1px solid #ccc;
+    padding: 6px 0;
+    font-size: 1em;
+    margin: 0;
+} 
+div.card-fee > div > p:last-child {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 50px;
+}
+div.card-fee > div > p > * {
+    display: inline-block;
+    vertical-align: middle
+}
+div.card-fee > div > p > img {
+    padding-right: 8px;
+}
+div.card-fee .btn.btn-primary {
+    display: block;
+    border: 1px solid var(--primary);
+    padding: 6px 15px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: var(--primary);
+    color: #fff;
+}
+div.card-fee .btn.btn-primary:hover {
+    background-color: var(--primary-dark);
+}
 
 @media only screen and (max-width: 1056px) {
     .bigHeader > div > h1 {

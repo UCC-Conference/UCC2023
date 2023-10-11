@@ -12,6 +12,7 @@ import CallForPosters from "./pages/CallForPosters";
 import CallForArtifacts from "./pages/CallForArtifacts";
 import PhDSymposium from "./pages/PhDSymposium";
 import KeynoteSpeakers from "./pages/KeynoteSpeakers";
+import Registrations from "./pages/Registrations";
 
 export default function getRoutes() {
     return [
@@ -95,6 +96,12 @@ export default function getRoutes() {
             href: "/workshops",
             component: <Workshops />,
             menu: true
+        },
+        {
+            title: "Registrations",
+            href: "/registrations",
+            component: <Registrations />,
+            menu: false
         },
         {
             title: "Venue",
