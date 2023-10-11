@@ -36,7 +36,7 @@ const fees = {
   late: [
     {
       title: "Full Conference",
-      fee: 890,
+      fee: 980,
       roles: ["IEEE/ACM Member", "IEEE/ACM Student Member"],
     },
     {
