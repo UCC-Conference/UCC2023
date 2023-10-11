@@ -8,27 +8,52 @@ import { Link } from "react-router-dom";
 const fees = {
   early: [
     {
+      title: "Full Conference",
       fee: 890,
       roles: ["IEEE/ACM Member"],
     },
     {
+      title: "Full Conference",
       fee: 850,
       roles: ["IEEE/ACM Student Member"],
     },
     {
+      title: "Full Conference",
       fee: 980,
       roles: ["Non-Member", "Student Non-Member"],
     },
+    // {
+    //   title: "EU Day",
+    //   fee: 250,
+    //   roles: [
+    //     "IEEE/ACM Member",
+    //     "IEEE/ACM Student Member",
+    //     "Non-Member",
+    //     "Student Non-Member",
+    //   ],
+    // },
   ],
   late: [
     {
+      title: "Full Conference",
       fee: 890,
       roles: ["IEEE/ACM Member", "IEEE/ACM Student Member"],
     },
     {
+      title: "Full Conference",
       fee: 1250,
       roles: ["Non-Member", "Student Non-Member"],
     },
+    // {
+    //   title: "EU Day",
+    //   fee: 300,
+    //   roles: [
+    //     "IEEE/ACM Member",
+    //     "IEEE/ACM Student Member",
+    //     "Non-Member",
+    //     "Student Non-Member",
+    //   ],
+    // },
   ],
 };
 
@@ -43,6 +68,7 @@ const Registrations = () => {
     const cards = fees[type].map((fee) => {
       return (
         <div className="card-fee">
+          <h3>{fee.title}</h3>
           <p>€ {fee.fee},00</p>
           <div>
             {fee.roles.map((role) => {
@@ -68,7 +94,7 @@ const Registrations = () => {
     <PageWrapper>
       <Content>
         <h1 className="text-centered">Conference registrations (draft)</h1>
-        <hr />
+        <hr className="centered" />
         <div className="center-p">
           <p>
             <b>Early Registration rates end on October 31, 2023.</b>
@@ -120,10 +146,21 @@ const Registrations = () => {
           <ul>
             <li>Materials;</li>
             <li>Access to all conference sessions;</li>
-            <li>Proceedings: abstracts and papers will be included in the proceedings only if at least one author has registered and paid the registration fee. One registration covers maximum 1 (one) paper.</li>
+            <li>
+              Proceedings: abstracts and papers will be included in the
+              proceedings only if at least one author has registered and paid
+              the registration fee. One registration covers maximum 1 (one)
+              paper.
+            </li>
             <li>Attendance at the welcome event;</li>
-            <li>Lunches and refreshments (from Dec 4th to 7th; on Oct 4th the lunch will be in Messina);</li>
-            <li>Conference Dinner (additional tickets may be purchased for € XXX,00).</li>
+            <li>
+              Lunches and refreshments (from Dec 4th to 7th; on Oct 4th the
+              lunch will be in Messina);
+            </li>
+            <li>
+              Conference Dinner (additional tickets may be purchased for €
+              XXX,00).
+            </li>
           </ul>
         </p>
         <h2>Important Author Information</h2>
