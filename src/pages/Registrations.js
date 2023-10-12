@@ -87,7 +87,7 @@ const Registrations = () => {
             })}
           </div>
           <div className="space"></div>
-          <Link to="#" className="btn btn-primary">
+          <Link onClick={() => alert("The registration system will be opened soon")} to="#" className="btn btn-primary">
             Go to registration
           </Link>
         </div>
