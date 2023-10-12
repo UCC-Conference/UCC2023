@@ -22,16 +22,16 @@ const fees = {
       fee: 980,
       roles: ["Non-Member", "Student Non-Member"],
     },
-    // {
-    //   title: "EU Day",
-    //   fee: 250,
-    //   roles: [
-    //     "IEEE/ACM Member",
-    //     "IEEE/ACM Student Member",
-    //     "Non-Member",
-    //     "Student Non-Member",
-    //   ],
-    // },
+    {
+      title: "EU Day (to be defined)",
+      fee: "-",
+      roles: [
+        "IEEE/ACM Member",
+        "IEEE/ACM Student Member",
+        "Non-Member",
+        "Student Non-Member",
+      ],
+    },
   ],
   late: [
     {
@@ -44,16 +44,16 @@ const fees = {
       fee: 1250,
       roles: ["Non-Member", "Student Non-Member"],
     },
-    // {
-    //   title: "EU Day",
-    //   fee: 300,
-    //   roles: [
-    //     "IEEE/ACM Member",
-    //     "IEEE/ACM Student Member",
-    //     "Non-Member",
-    //     "Student Non-Member",
-    //   ],
-    // },
+    {
+      title: "EU Day (to be defined)",
+      fee: "-",
+      roles: [
+        "IEEE/ACM Member",
+        "IEEE/ACM Student Member",
+        "Non-Member",
+        "Student Non-Member",
+      ],
+    },
   ],
 };
 
@@ -69,7 +69,13 @@ const Registrations = () => {
       return (
         <div className="card-fee">
           <h3>{fee.title}</h3>
-          <p>€ {fee.fee},00</p>
+          {
+            typeof fee.fee === "string" ? (
+                <p>{fee.fee}</p>
+                ) : (
+                <p>€ {fee.fee},00</p>
+                )
+          }
           <div>
             {fee.roles.map((role) => {
               return (
@@ -93,7 +99,7 @@ const Registrations = () => {
   return (
     <PageWrapper>
       <Content>
-        <h1 className="text-centered">Conference registrations (draft)</h1>
+        <h1 className="text-centered">Conference registrations</h1>
         <hr className="centered" />
         <div className="center-p">
           <p>
@@ -138,6 +144,7 @@ const Registrations = () => {
           <span>Normal Price</span>
         </div>
         <br />
+        <p style={{color: '#aa1717', textAlign: 'center', fontWeight: 600}}>The registration system will be opened soon</p>
         <div class="fees-cards">{createCards(type)}</div>
 
         <br />
@@ -159,7 +166,7 @@ const Registrations = () => {
             </li>
             <li>
               Conference Dinner (additional tickets may be purchased for €
-              XXX,00).
+              100,00).
             </li>
           </ul>
         </p>
@@ -178,15 +185,14 @@ const Registrations = () => {
             <li>Each Author Registration is valid for ONE paper.</li>
             <li>
               Each paper may contain up to 2 additional pages for a fee of
-              €XXX/page.
+              € 100,00/page.
             </li>
           </ul>
         </p>
         <h2>Cancellation policy</h2>
         <p>
-          A cancellation fee of € XXX,00 will be applied for conference
-          registrations canceled until XXX, 2022. After this date, no refunds
-          can be issued. If your category fee is lower than the cancellation
+          A cancellation fee of € 300,00 will be applied for conference
+          registrations canceled. If your category fee is lower than the cancellation
           fee, no refunds can be issued.
         </p>
         <h2>Insurance</h2>
@@ -196,11 +202,11 @@ const Registrations = () => {
           discuss insurance cover with your travel agent when booking your
           travel.
         </p>
-        <h2>VISA and invitation letter</h2>
+        {/* <h2>VISA and invitation letter</h2>
         <p>
           For requesting the Invitation Letter, only after the Registration
           Process is completed, please send an email to xxx@yyy.it
-        </p>
+        </p> */}
       </Content>
     </PageWrapper>
   );

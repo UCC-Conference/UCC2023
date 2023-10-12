@@ -98,10 +98,10 @@ export default function getRoutes() {
             menu: true
         },
         {
-            title: "Registrations",
-            href: "/registrations-draft",
+            title: "Registration",
+            href: "/registration",
             component: <Registrations />,
-            menu: false
+            menu: true
         },
         {
             title: "Venue",
