@@ -16,6 +16,7 @@ const SteeringCommittee = () => {
                         <tr><td>Alexandre da Silva Veith, Nokia Bell Labs</td></tr>
                         <tr><td>Alexandru Costan, Research Institute Computer And Systems Aléatoires, France</td></tr>
                         <tr><td>Alfredo Goldman, USP, Brazil</td></tr>
+                        <tr><td>Ali	Khoshkholghi, Middlesex University London, UK</td></tr>
                         <tr><td>André Bauer, University of Würzburg, Germany</td></tr>
                         <tr><td>Anirban Mandal, RENCI</td></tr>
                         <tr><td>Antonio Brogi, University of Pisa, Italy</td></tr>
@@ -31,12 +32,15 @@ const SteeringCommittee = () => {
                         <tr><td>David Bermbach, Technische Universität Berlin, Germany</td></tr>
                         <tr><td>Demetris Trihinas, University of Nicosia, Cyprus</td></tr>
                         <tr><td>Dong Dai, UNC-Charlotte, USA</td></tr>
+                        <tr><td>Dr. Chandrashekar Jatothu, National Institute of Technology Raipur, India</td></tr>
+                        <tr><td>Dr. Satya Prakash Yadav, GL Bajaj Institute of Technology and Management, India</td></tr>
                         <tr><td>Felix Freitag, Technical University of Catalonia, Spain</td></tr>
                         <tr><td>Francisco Brasileiro, UFCG, Brazil</td></tr>
                         <tr><td>George Pallis, University of Cyprus, Cyprus</td></tr>
                         <tr><td>Habeeb Olufowobi, University of Texas at Arlington, USA</td></tr>
                         <tr><td>Hameed Badawy, New Mexico State University, USA</td></tr>
                         <tr><td>Harshit Gupta, Microsoft</td></tr>
+                        <tr><td>Heeralal Dr.M, National Institute of Technology, Warangal, India</td></tr>
                         <tr><td>In Kee Kim, University of Georgia, Georgia</td></tr>
                         <tr><td>Ivan Rodero, University of Utah, USA</td></tr>
                         <tr><td>Javier Garcia-Blas, University Carlos III of Madrid, Spain</td></tr>
@@ -87,6 +91,7 @@ const SteeringCommittee = () => {
                         <tr><td>Yao Liu, Rutgers University, USA</td></tr>
                         <tr><td>Yogesh Barve, Vanderbilt University, USA</td></tr>
                         <tr><td>Yong Chen, Texas Tech University, USA</td></tr>
+                        <tr><td>Youseef	Alotaibi, Umm Al-Qura University, Arabia Saudita</td></tr>
                         <tr><td>Zhi Qiao, Microsoft</td></tr>
                         </tbody>
                 </table>
