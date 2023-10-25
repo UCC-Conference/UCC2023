@@ -105,7 +105,7 @@ export default function getRoutes() {
       menu: true,
     },
     {
-      title: "Camera-ready",
+      title: "Camera-ready Instructions",
       href: "/camera-ready",
       component: <CameraReady />,
       menu: true,
