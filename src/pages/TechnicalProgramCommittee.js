@@ -22,6 +22,7 @@ const SteeringCommittee = () => {
                         <tr><td>Antonio Brogi, University of Pisa, Italy</td></tr>
                         <tr><td>Atakan Aral, University of Vienna, Austria</td></tr>
                         <tr><td>Attila Kertesz, University of Szeged, Hungary</td></tr>
+                        <tr><td>Auday Al-Dulaimy, Mälardalen University, Sweden</td></tr>
                         <tr><td>Balazs Gerofi, Intel Corporation</td></tr>
                         <tr><td>Beilei Jiang, University of North Texas, USA</td></tr>
                         <tr><td>Carlos Guerrero, University of the Balearic Islands, Spain</td></tr>
