@@ -510,6 +510,7 @@ p {
     border-top: 3px solid var(--primary);
     border-radius: 10px;
     margin-bottom: 30px;
+    margin-top: 80px;
 }
 .keynote-block > h3 {
     margin-top: -20px;
