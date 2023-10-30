@@ -93,7 +93,7 @@ const CameraReady = () => {
             </Link>
           </li>
           <li>
-            Authors accepted as <strong>Long Paper</strong>:
+            Authors accepted as <strong>Full Paper in Research Track</strong>:
             <ul>
               <li>
                 Manuscripts are submitted in PDF format and may not exceed ten
@@ -104,12 +104,12 @@ const CameraReady = () => {
           </li>
 
           <li>
-            Authors accepted as <strong>Short Paper</strong>:
+            Authors accepted as <strong>Short Paper in Research Track and Workshops</strong>:
             <ul>
               <li>
                 Short Papers must be no longer than six (6) pages (no cover
                 page) ACM-formatted double-column pages, including figures,
-                tables, and references during the registration.{" "}
+                tables, and references during the registration.
               </li>
             </ul>
           </li>
