@@ -86,7 +86,7 @@ Manuscripts are submitted in PDF format and may not exceed ten (10) ACM-formatte
                     Timezone: Anywhere in the world!<br/>
                     Paper Submissions Due: September 17, 2023<br/>
                     Acceptance Notification: October 21, 2023<br/>
-                    Camera Ready Papers Due: October 31, 2023
+                    Camera Ready Papers Due: November 2, 2023
                 </p>
                 <br/>
                 <h2>AWARDS AND SPECIAL ISSUES</h2>
