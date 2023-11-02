@@ -14,6 +14,7 @@ import PhDSymposium from "./pages/PhDSymposium";
 import KeynoteSpeakers from "./pages/KeynoteSpeakers";
 import Registrations from "./pages/Registrations";
 import CameraReady from "./pages/CameraReady";
+import InvitedSpeakers from "./pages/InvitedSpeakers";
 
 export default function getRoutes() {
   return [
@@ -27,6 +28,13 @@ export default function getRoutes() {
       title: "Keynote Speakers",
       href: "/keynote-speakers",
       component: <KeynoteSpeakers />,
+      menu: true,
+      parent: "Program",
+    },
+    {
+      title: "Invited Speakers",
+      href: "/invited-speakers",
+      component: <InvitedSpeakers />,
       menu: true,
       parent: "Program",
     },
