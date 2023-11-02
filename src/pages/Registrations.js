@@ -103,7 +103,7 @@ const Registrations = () => {
         <hr className="centered" />
         <div className="center-p">
           <p>
-            <b>Early Registration rates end on November 7, 2023.</b>
+            <b>Early Registration rates end on November 10, 2023.</b>
           </p>
           <p>
             All deadlines are at 11:59 PM on the stated date.
