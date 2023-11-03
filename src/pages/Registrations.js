@@ -202,11 +202,11 @@ const Registrations = () => {
           discuss insurance cover with your travel agent when booking your
           travel.
         </p>
-        {/* <h2>VISA and invitation letter</h2>
+        <h2>VISA and invitation letter</h2>
         <p>
           For requesting the Invitation Letter, only after the Registration
-          Process is completed, please send an email to xxx@yyy.it
-        </p> */}
+          Process is completed, please send an email to ucc2023@bisazzagangi.it
+        </p>
       </Content>
     </PageWrapper>
   );
