@@ -648,7 +648,13 @@ div.card-fee .btn.btn-primary {
 div.card-fee .btn.btn-primary:hover {
     background-color: var(--primary-dark);
 }
-
+div.sponsorships {
+    display: flex;
+    justify-content: space-evenly;
+}
+div.sponsorships > img {
+    max-width: 500px;
+}
 @media only screen and (max-width: 1056px) {
     .bigHeader > div > h1 {
         font-size: 2em;

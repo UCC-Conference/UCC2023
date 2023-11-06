@@ -6,6 +6,8 @@ import Prefooter from "../components/elements/Prefooter"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCalendarAlt } from "@fortawesome/free-solid-svg-icons";
 
+import sigarch from "../assets/sigarchLogoUC.PNG";
+
 const counter = ({ days, hours, minutes, seconds, completed }) => {
     return (
         <div className="countdown">
@@ -55,6 +57,14 @@ const Home = () => {
                     </h2>
                 </div>
                 <Countdown date={new Date("2023-12-04")} renderer={counter} />
+            </Content>
+            <Content className="center">
+                <center>
+                    <h1>Sponsors</h1>
+                </center>
+                <div className="sponsorships">
+                    <img src={sigarch} alt="ACM-SIGARCH" />
+                </div>
             </Content>
             <Prefooter />
         </div>
