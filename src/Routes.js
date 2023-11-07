@@ -15,6 +15,7 @@ import KeynoteSpeakers from "./pages/KeynoteSpeakers";
 import Registrations from "./pages/Registrations";
 import CameraReady from "./pages/CameraReady";
 import InvitedSpeakers from "./pages/InvitedSpeakers";
+import Schedule from "./pages/Schedule";
 
 export default function getRoutes() {
   return [
@@ -23,6 +24,13 @@ export default function getRoutes() {
       href: "/",
       component: <Home />,
       menu: true,
+    },
+    {
+      title: "Schedule",
+      href: "/schedule",
+      component: <Schedule />,
+      menu: true,
+      parent: "Program",
     },
     {
       title: "Keynote Speakers",
