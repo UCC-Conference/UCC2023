@@ -22,16 +22,6 @@ const fees = {
       fee: 980,
       roles: ["Non-Member", "Student Non-Member"],
     },
-    {
-      title: "EU Day (to be defined)",
-      fee: "-",
-      roles: [
-        "IEEE/ACM Member",
-        "IEEE/ACM Student Member",
-        "Non-Member",
-        "Student Non-Member",
-      ],
-    },
   ],
   late: [
     {
@@ -43,16 +33,6 @@ const fees = {
       title: "Full Conference",
       fee: 1250,
       roles: ["Non-Member", "Student Non-Member"],
-    },
-    {
-      title: "EU Day (to be defined)",
-      fee: "-",
-      roles: [
-        "IEEE/ACM Member",
-        "IEEE/ACM Student Member",
-        "Non-Member",
-        "Student Non-Member",
-      ],
     },
   ],
 };
@@ -87,7 +67,7 @@ const Registrations = () => {
             })}
           </div>
           <div className="space"></div>
-          <Link onClick={() => alert("The registration system will be opened soon")} to="#" className="btn btn-primary">
+          <Link to="https://www.bisazzagangi.it/ucc2023" target="_blank" className="btn btn-primary">
             Go to registration
           </Link>
         </div>
@@ -103,7 +83,7 @@ const Registrations = () => {
         <hr className="centered" />
         <div className="center-p">
           <p>
-            <b>Early Registration rates end on November 10, 2023.</b>
+            <b>Early Registration rates end on November 18, 2023.</b>
           </p>
           <p>
             All deadlines are at 11:59 PM on the stated date.
@@ -144,7 +124,7 @@ const Registrations = () => {
           <span>Normal Price</span>
         </div>
         <br />
-        <p style={{color: '#aa1717', textAlign: 'center', fontWeight: 600}}>The registration system will be opened soon</p>
+        {/* <p style={{color: '#aa1717', textAlign: 'center', fontWeight: 600}}>The registration system will be opened soon</p> */}
         <div class="fees-cards">{createCards(type)}</div>
 
         <br />
