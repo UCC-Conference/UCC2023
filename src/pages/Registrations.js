@@ -141,8 +141,7 @@ const Registrations = () => {
             </li>
             <li>Attendance at the welcome event;</li>
             <li>
-              Lunches and refreshments (from Dec 4th to 7th; on Oct 4th the
-              lunch will be in Messina);
+              Lunches and refreshments (from Dec 4th to 7th);
             </li>
             <li>
               Conference Dinner (additional tickets may be purchased for €
