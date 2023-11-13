@@ -664,8 +664,11 @@ table.schedule {
     width: calc(100vw - 50px);
     margin:auto;
 }
+table.schedule tr.gray td {
+    background-color: #ccc;
+}
 table.schedule tr td {
-    border: 1px solid var(--primary) ;
+    border: 1px solid var(--primary-dark) ;
     text-align: center;
     padding: 20px 10px;
 }
