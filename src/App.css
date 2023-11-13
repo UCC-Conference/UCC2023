@@ -657,10 +657,45 @@ div.sponsorships > img {
 }
 div.fullImg {
     padding: 10px;
+    overflow: auto;
 }
-div.fullImg > img {
-    width: 100%;
-} 
+table.schedule {
+    border-collapse: collapse;
+    width: calc(100vw - 50px);
+    margin:auto;
+}
+table.schedule tr td {
+    border: 1px solid var(--primary) ;
+    text-align: center;
+    padding: 20px 10px;
+}
+table.schedule tr:first-of-type td  {
+    font-weight: 600;
+    color: white;
+    background-color: var(--primary-dark);
+    border-color: var(--primary);
+}
+table.schedule tr td:first-of-type {
+    font-weight: 600;
+    color: white;
+    background-color: var(--primary-dark);
+    border-color: var(--primary);
+}
+table.schedule tr:nth-of-type(2) td  {
+    font-weight: 600;
+    color: white;
+    background-color: var(--primary);
+}
+table.schedule tr:first-of-type td:first-of-type,
+table.schedule tr:nth-of-type(2) td:first-of-type  {
+    font-weight: 600;
+    color: white;
+    background-color: unset;
+    border: unset;
+}
+table.schedule tr td {
+    width: 12.5%;
+}
 @media only screen and (max-width: 1056px) {
     .bigHeader > div > h1 {
         font-size: 2em;
