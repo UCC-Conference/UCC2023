@@ -654,6 +654,7 @@ div.sponsorships {
 }
 div.sponsorships > img {
     max-width: 500px;
+    width: 100%;
 }
 div.fullImg {
     padding: 10px;
