@@ -700,6 +700,24 @@ table.schedule tr:nth-of-type(2) td:first-of-type  {
 table.schedule tr td {
     width: 12.5%;
 }
+div.program-content p {
+    font-size: 1em !important;
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+    margin-left: 25px;
+}
+div.program-content ul {
+    margin-bottom: 0 !important;
+    margin-top: 0 !important; 
+}
+div.program-content h4 {
+    margin-bottom: 0 !important;
+    margin-top:  10px !important; 
+    color: var(--primary)
+}
+div.program-content div.program-room {
+    margin-bottom: 30px;
+}
 @media only screen and (max-width: 1056px) {
     .bigHeader > div > h1 {
         font-size: 2em;
