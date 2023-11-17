@@ -578,8 +578,7 @@ const Program = () => {
               </li>
             </ul>
           </div>
-          <h4>Wednesday, December 6th, 2023, 18:00 | Closing Remarks</h4>
-
+          
           <br />
           <hr />
 
