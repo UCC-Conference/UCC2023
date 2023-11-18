@@ -578,7 +578,7 @@ const Program = () => {
               </li>
             </ul>
           </div>
-          
+
           <br />
           <hr />
 
@@ -586,9 +586,67 @@ const Program = () => {
           <h4>Thursday, December 7th, 2023, 09:00 – 10:00 | Panel Session</h4>
           <div class="program-room">
             <p>
-              How could society deal with the arrival of generative artificial
-              intelligence?
+              <strong>
+                The role of Cloud platforms providers to support Responsible &
+                Safe AI
+              </strong>
             </p>
+            <p style={{marginBottom: '20px'}}>
+              The focus of this panel is to discuss the role that cloud hosting
+              platforms need to play in supporting "safe" AI services, which
+              preserve user privacy and ensure compliance with consumer
+              protection legislation (such as the EU AI Act).
+            </p>
+            <p style={{marginBottom: '20px'}}> 
+              For instance the EU "Digital Services & Markets Act" includes
+              rules for online platforms & “gatekeeper” companies (Cloud
+              providers). These include large digital platforms providing “core
+              platform services”, such as online search engines, app stores,
+              messenger services.{" "}
+            </p>
+            <p>The Digital Services & Markets act requires gatekeepers to:</p>
+            <ul style={{marginLeft: '20px'}}>
+              <li>
+                allow third parties to inter-operate with the gatekeeper’s own
+                services in certain specific situations;
+              </li>
+              <li>
+                allow their business users to access the data that they generate
+                in their use of the gatekeeper’s platform;
+              </li>
+              <li>
+                provide companies advertising on their platform with the tools
+                and information necessary for advertisers and publishers to
+                carry out their own independent verification of their
+                advertisements hosted by the gatekeeper;
+              </li>
+              <li>
+                allow their business users to promote their offer and conclude
+                contracts with their customers outside the gatekeeper’s
+                platform.
+              </li>
+            </ul>
+            <p style={{marginTop: '20px'}}>and prevent gatekeeper companies from:</p>
+            <ul style={{marginLeft: '20px'}}>
+              <li>
+                treating services and products offered by the gatekeeper itself
+                more favourably in ranking than similar services or products
+                offered by third parties on the gatekeeper's platform;
+              </li>
+              <li>
+                preventing consumers from linking up to businesses outside their
+                platforms;
+              </li>
+              <li>
+                preventing users from un-installing any pre-installed software
+                or app if they wish to do so;
+              </li>
+              <li>
+                track end users outside of the gatekeepers' core platform
+                service for the purpose of targeted advertising, without
+                effective consent having been granted.
+              </li>
+            </ul>
           </div>
           <h4>Thursday, December 7th, 2023, 10:00 – 10:30 | Coffee Break</h4>
           <h4>Thursday, December 7th, 2023, 10:00 – 10:30 | Poster Session</h4>
