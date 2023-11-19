@@ -496,16 +496,16 @@ const Program = () => {
           <div class="program-room">
             <p>Room A – UCC</p>
             <ul>
-              <li>
+            <li>
                 <i>
                   <strong>
-                    Identifying Network Congestion Using Knowledge Graphs and
-                    Link Prediction.
+                    LLD: A Last-Level Defense for Application Integrity and
+                    Confidentiality.
                   </strong>
                 </i>
                 <br />
-                Aikaterini Mitropoulou, Panagiotis Kokkinos, Emmanouel
-                Varvarigos | short paper
+                Gabriel P Fernandez, Andrey Brito, Ardhi Hartono, Muhammad Usama
+                Sardar, Christof Fetzer | full paper
               </li>
               <li>
                 <i>
@@ -655,16 +655,16 @@ const Program = () => {
           <div class="program-room">
             <p>Room A – UCC</p>
             <ul>
-              <li>
+            <li>
                 <i>
                   <strong>
-                    LLD: A Last-Level Defense for Application Integrity and
-                    Confidentiality.
+                    Identifying Network Congestion Using Knowledge Graphs and
+                    Link Prediction.
                   </strong>
                 </i>
                 <br />
-                Gabriel P Fernandez, Andrey Brito, Ardhi Hartono, Muhammad Usama
-                Sardar, Christof Fetzer | full paper
+                Aikaterini Mitropoulou, Panagiotis Kokkinos, Emmanouel
+                Varvarigos | short paper
               </li>
               <li>
                 <i>
