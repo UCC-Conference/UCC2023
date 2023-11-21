@@ -7,6 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCalendarAlt } from "@fortawesome/free-solid-svg-icons";
 
 import sigarch from "../assets/sigarchLogoUC.PNG";
+import ieee from "../assets/IEEE-CS_LogoTM-orange.png";
 
 const counter = ({ days, hours, minutes, seconds, completed }) => {
     return (
@@ -64,6 +65,7 @@ const Home = () => {
                 </center>
                 <div className="sponsorships">
                     <img src={sigarch} alt="ACM-SIGARCH" />
+                    <img src={ieee} alt="IEEE-CS" />
                 </div>
             </Content>
             <Prefooter />

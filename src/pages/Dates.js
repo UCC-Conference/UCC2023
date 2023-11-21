@@ -15,7 +15,7 @@ const Dates = () => {
                 <p><del><strong>Conference Paper Submissions Due</strong><br/>September 17, 2023</del></p>
                 <p><del><strong>Conference Paper - Notification of Acceptance</strong><br/>October 21, 2023</del></p>
                 <p><del><strong>Camera-Ready Due</strong><br/>November 2, 2023</del></p>
-                <p><strong>Early Registration</strong><br/>November 20, 2023</p>
+                <p><del><strong>Early Registration</strong><br/>November 20, 2023</del></p>
             </Content>
         </PageWrapper>
     );

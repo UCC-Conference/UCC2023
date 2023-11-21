@@ -651,9 +651,11 @@ div.card-fee .btn.btn-primary:hover {
 div.sponsorships {
     display: flex;
     justify-content: space-evenly;
+    gap: 50px;
+    flex-wrap: wrap;
 }
 div.sponsorships > img {
-    max-width: 500px;
+    max-width: 400px;
     width: 100%;
 }
 div.fullImg {
