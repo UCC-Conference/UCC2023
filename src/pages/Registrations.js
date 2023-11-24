@@ -38,7 +38,7 @@ const fees = {
 };
 
 const Registrations = () => {
-  const [type, setType] = useState("early");
+  const [type, setType] = useState("late");
 
   function toggleState() {
     setType(type === "early" ? "late" : "early");

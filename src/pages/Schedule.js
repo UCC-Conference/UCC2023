@@ -8,6 +8,7 @@ const Schedule = () => {
       <Content>
         <h1>Schedule</h1>
         <hr />
+        <p>All times mentioned are in Central European Time (CET).</p>
         <ul>
           <li>
             <b>Workshop Presentation</b>: 15 minutes of presentation and 5
@@ -399,10 +400,22 @@ const Schedule = () => {
             </tr>
             <tr class="gray">
               <td data-t="s" data-v="from 20:00" id="sjs-A13">
-                from 20:00
+                from 19:00
               </td>
               <td colspan="2" data-t="s" data-v="Welcome Cocktail" id="sjs-B13">
                 Welcome Cocktail
+              </td>
+              <td id="sjs-D13"></td>
+              <td id="sjs-E13"></td>
+              <td colspan="2" data-t="s" data="" v="Gala Dinner" id="sjs-F13">
+              </td>
+              <td id="sjs-H13"></td>
+            </tr>
+            <tr class="gray">
+              <td data-t="s" data-v="from 20:00" id="sjs-A13">
+                from 20:00
+              </td>
+              <td colspan="2" data-t="s" data-v="Welcome Cocktail" id="sjs-B13">
               </td>
               <td id="sjs-D13"></td>
               <td id="sjs-E13"></td>

@@ -10,6 +10,7 @@ const Program = () => {
           <h1>Program</h1>
           <hr />
           <h2>Technical Program Sessions</h2>
+          <span>All times mentioned are in Central European Time (CET).</span>
 
           <h4>Monday, December 4th, 2023, 8:00 - 8:45 | Registration</h4>
           <h4>Monday, December 4th, 2023, 8:45 – 9:00 | Opening</h4>
@@ -50,7 +51,7 @@ const Program = () => {
           </div>
 
           <h4>
-            Monday, December 4th, 2023, starting at 20:00 | Welcome Cocktail
+            Monday, December 4th, 2023, starting at 19:00 | Welcome Cocktail
           </h4>
           <p>
             Hotel Villa Diodoro, Via Bagnoli Croci, 75, 98039, Taormina, Italy
