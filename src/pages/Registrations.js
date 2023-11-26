@@ -145,7 +145,7 @@ const Registrations = () => {
             </li>
             <li>
               Conference Dinner (additional tickets may be purchased for €
-              100,00).
+              80,00).
             </li>
           </ul>
         </p>
