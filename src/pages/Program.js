@@ -10,7 +10,7 @@ const Program = () => {
 
   if (currentDate.toDateString() === new Date("2023-12-05").toDateString())
     defaultDay = 1;
-  else if (currentDate.toDateString() === new Date("2023-11-06").toDateString())
+  else if (currentDate.toDateString() === new Date("2023-12-06").toDateString())
     defaultDay = 2;
   else if (currentDate.toDateString() === new Date("2023-12-07").toDateString())
     defaultDay = 3;
@@ -702,7 +702,7 @@ const Program = () => {
                 Thursday, December 7th, 2023, 09:00 – 10:00 | Panel Session
               </h4>
               <div class="program-room">
-                <p>Room A – UCC</p>
+                <p>Room A</p>
                 <p className="session-chair">
                   Session Chair: Omer Rana, University of Cardiff
                 </p>
