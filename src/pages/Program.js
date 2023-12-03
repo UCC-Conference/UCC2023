@@ -77,9 +77,9 @@ const Program = () => {
               </h4>
 
               <div class="program-room">
-                <p>Room A – BDCAT Workshop: BigNDA for BDCAT4WM</p>
                 <p>Room A – UCC Workshop: Inspire</p>
                 <p>Room A – UCC Workshop: QSERV</p>
+                <p>Room A – BDCAT Workshop: BigNDA for BDCAT4WM</p>
                 <p>Room B – UCC Workshop: CloudAM</p>
                 <p>Room B – UCC Workshop: DML-ICC</p>
               </div>
