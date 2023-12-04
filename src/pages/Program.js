@@ -2,6 +2,7 @@ import React from "react";
 import Content from "../components/elements/Content";
 import PageWrapper from "../components/elements/PageWrapper";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
+import { Link } from "react-router-dom";
 import "react-tabs/style/react-tabs.css";
 
 const Program = () => {
@@ -65,7 +66,7 @@ const Program = () => {
 
               <div class="program-room">
                 <p>Room A – UCC Workshop: Intel4EC</p>
-                <p>Room B – BDCAT Workshop: BigNDA</p>
+                <p>Room B – BDCAT Workshop: <Link to="https://fcrlab.unime.it/calls/bignda2023">BigNDA</Link></p>
               </div>
 
               <h4>Monday, December 4th, 2023, 12:30 – 14:30 | Lunch Break</h4>
@@ -77,11 +78,11 @@ const Program = () => {
               </h4>
 
               <div class="program-room">
-                <p>Room A – UCC Workshop: Inspire</p>
-                <p>Room A – UCC Workshop: QSERV</p>
-                <p>Room A – BDCAT Workshop: BigNDA for BDCAT4WM</p>
-                <p>Room B – UCC Workshop: CloudAM</p>
-                <p>Room B – UCC Workshop: DML-ICC</p>
+                <p>Room A – UCC Workshop: <Link to="https://sites.google.com/view/inspire2023">Inspire</Link></p>
+                <p>Room A – UCC Workshop: <Link to="https://qserv23.github.io/">QSERV</Link></p>
+                <p>Room A – BDCAT Workshop: <Link to="https://fcrlab.unime.it/calls/bignda2023">BigNDA for BDCAT4WM</Link></p>
+                <p>Room B – UCC Workshop: <Link to="https://sites.google.com/unizar.es/cloudam2023">CloudAM</Link></p>
+                <p>Room B – UCC Workshop: <Link to="http://www.lrc.ic.unicamp.br/dml-icc/">DML-ICC</Link></p>
               </div>
 
               <h4>
@@ -293,7 +294,7 @@ const Program = () => {
               </div>
 
               <div class="program-room">
-                <p>Room B – UCC Workshop: CIFS</p>
+                <p>Room B – UCC Workshop: <Link to="http://cifs.servicelaboratory.ch/cifs2023/">CIFS</Link></p>
               </div>
 
               <h4>Tuesday, December 5th, 2023, 16:00 – 16:30 | Coffee Break</h4>
@@ -349,7 +350,7 @@ const Program = () => {
                 </ul>
               </div>
               <div class="program-room">
-                <p>Room B – UCC Workshop: CEICO</p>
+                <p>Room B – UCC Workshop: <Link to="https://github.zhaw.ch/pages/milt/CEICO/">CEICO</Link></p>
               </div>
             </TabPanel>
 
