@@ -17,6 +17,7 @@ import CameraReady from "./pages/CameraReady";
 import InvitedSpeakers from "./pages/InvitedSpeakers";
 import Schedule from "./pages/Schedule";
 import Program from "./pages/Program";
+import BestPaperAwards from "./pages/BestPaperAwards";
 
 export default function getRoutes() {
   return [
@@ -51,6 +52,13 @@ export default function getRoutes() {
       title: "Invited Speakers",
       href: "/invited-speakers",
       component: <InvitedSpeakers />,
+      menu: true,
+      parent: "Program",
+    },
+    {
+      title: "Best Paper Awards",
+      href: "/best-paper-awards",
+      component: <BestPaperAwards />,
       menu: true,
       parent: "Program",
     },

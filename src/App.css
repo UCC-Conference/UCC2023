@@ -792,3 +792,18 @@ p.session-chair.padding {
     max-width: 200px;
   }
 }
+.award {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 40px 0;
+    text-align: center;
+    min-height: 200px;
+}
+.award > h2 {
+    color: var(--primary);
+    margin-bottom: 0;
+}
+.award > p {
+    margin: 0;
+    text-align: center;
+}
