@@ -28,10 +28,10 @@ function Header() {
                             e.preventDefault();
                         }}>
                         <span>{item.parent}</span>
-                        <span class="arrow-down" />
+                        <span className="arrow-down" />
                     </a>
                     <div className="dropdown-menu">
-                        <span class="arrow-up" />
+                        <span className="arrow-up" />
                         {item.children.map((link, j) => (
                             <NavLink key={"a" + j} to={link.href} target={link.external ? "_blank" : null}>
                                 {link.title}
@@ -57,7 +57,7 @@ function Header() {
                             if (e.target.parentNode.parentNode.classList.contains("active")) e.target.parentNode.parentNode.classList.remove("active");
                             else e.target.parentNode.parentNode.classList.add("active");
                         }}>
-                        <span class="arrow" />
+                        <span className="arrow" />
                         <span>{item.parent}</span>
                     </a>
                     <div className="dropdown-menu">

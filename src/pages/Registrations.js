@@ -125,7 +125,7 @@ const Registrations = () => {
         </div>
         <br />
         {/* <p style={{color: '#aa1717', textAlign: 'center', fontWeight: 600}}>The registration system will be opened soon</p> */}
-        <div class="fees-cards">{createCards(type)}</div>
+        <div className="fees-cards">{createCards(type)}</div>
 
         <br />
         <p>

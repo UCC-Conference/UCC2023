@@ -19,7 +19,7 @@ const Program = () => {
   return (
     <PageWrapper>
       <Content>
-        <div class="program-content">
+        <div className="program-content">
           <h1>Program</h1>
           <hr />
           <h2>Technical Program Sessions</h2>
@@ -40,7 +40,7 @@ const Program = () => {
                 Monday, December 4th, 2023, 9:00 – 10:00 | Keynote Speaker
               </h4>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A</p>
                 <p className="session-chair">
                   Session Chair: Maria Fazio, University of Messina
@@ -64,7 +64,7 @@ const Program = () => {
                 Monday, December 4th, 2023, 10:30 – 12:30 | Workshop Sessions
               </h4>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A – UCC Workshop: Intel4EC</p>
                 <p>Room B – BDCAT Workshop: <Link to="https://fcrlab.unime.it/calls/bignda2023">BigNDA</Link></p>
               </div>
@@ -77,7 +77,7 @@ const Program = () => {
                 Monday, December 4th, 2023, 14:30 – 18:30 | Workshop Sessions
               </h4>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A – UCC Workshop: <Link to="https://sites.google.com/view/inspire2023">Inspire</Link></p>
                 <p>Room A – UCC Workshop: <Link to="https://qserv23.github.io/">QSERV</Link></p>
                 <p>Room A – BDCAT Workshop: <Link to="https://fcrlab.unime.it/calls/bignda2023">BigNDA for BDCAT4WM</Link></p>
@@ -101,7 +101,7 @@ const Program = () => {
                 Tuesday, December 5th, 2023, 9:00 – 10:00 | Keynote Speaker
               </h4>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A</p>
                 <p className="session-chair">
                   Session Chair: Lorenzo Carnevale, University of Messina
@@ -128,7 +128,7 @@ const Program = () => {
                 Sessions
               </h4>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A – UCC:</p>
                 <p className="session-chair">
                   Session Chair: Dragi Kimovski, University of Klagenfurt
@@ -186,7 +186,7 @@ const Program = () => {
                 </ul>
               </div>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room B - BDCAT:</p>
                 <p className="session-chair">
                   Session Chair: Armando Ruggeri, University of Messina
@@ -249,7 +249,7 @@ const Program = () => {
                 Sessions
               </h4>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A - UCC:</p>
                 <p className="session-chair">
                   Session Chair: Lorenzo Carnevale, University of Messina
@@ -293,7 +293,7 @@ const Program = () => {
                 </ul>
               </div>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room B – UCC Workshop: <Link to="http://cifs.servicelaboratory.ch/cifs2023/">CIFS</Link></p>
               </div>
 
@@ -306,7 +306,7 @@ const Program = () => {
                 Sessions
               </h4>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A - UCC:</p>
                 <p className="session-chair">
                   Session Chair: Bahman Javadi, Western Sydney University
@@ -349,7 +349,7 @@ const Program = () => {
                   </li>
                 </ul>
               </div>
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room B – UCC Workshop: <Link to="https://github.zhaw.ch/pages/milt/CEICO/">CEICO</Link></p>
               </div>
             </TabPanel>
@@ -360,7 +360,7 @@ const Program = () => {
                 Wednesday, December 6th, 2023, 9:00 – 10:00 | Invited Speaker
               </h4>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A</p>
                 <p className="session-chair">
                   Session Chair: Omer Rana, University of Cardiff
@@ -385,7 +385,7 @@ const Program = () => {
                 Sessions
               </h4>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A – UCC</p>
                 <p className="session-chair">
                   Session Chair: Fakhri Karray, University of Waterloo
@@ -434,7 +434,7 @@ const Program = () => {
                   </li>
                 </ul>
               </div>
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room B - BDCAT</p>
                 <p className="session-chair">
                   Session Chair: Ester Zumpano, University of Calabria
@@ -499,7 +499,7 @@ const Program = () => {
                 Sessions
               </h4>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A – UCC</p>
                 <p className="session-chair">
                   Session Chair: Antonino Galletta, University of Messina
@@ -543,7 +543,7 @@ const Program = () => {
                   </li>
                 </ul>
               </div>
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room B – BDCAT</p>
                 <p className="session-chair">
                   Session Chair: Patricia Takako Endo, Universidade de
@@ -597,7 +597,7 @@ const Program = () => {
                 Sessions
               </h4>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A – UCC</p>
                 <p className="session-chair">
                   Session Chair: Javid Taheri, Karlstad University
@@ -639,7 +639,7 @@ const Program = () => {
                   </li>
                 </ul>
               </div>
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room B – BDCAT</p>
                 <p className="session-chair">
                   Session Chair: Shashikant Ilager, Vienna University of
@@ -702,7 +702,7 @@ const Program = () => {
               <h4>
                 Thursday, December 7th, 2023, 09:00 – 10:00 | Panel Session
               </h4>
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A</p>
                 <p className="session-chair">
                   Session Chair: Omer Rana, University of Cardiff
@@ -783,7 +783,7 @@ const Program = () => {
               </h4>
               <h4>Thursday, December 7th, 2023, 10:30 – 12:30 | UCC Session</h4>
 
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A – UCC</p>
                 <p className="session-chair">
                   Session Chair: Tomasz Szydlo, Newcastle University
@@ -841,7 +841,7 @@ const Program = () => {
                 Thursday, December 7th, 2023, 12:30 – 14:30 | Poster Session
               </h4>
               <h4>Thursday, December 7th, 2023, 14:30 – 16:00 | UCC Session</h4>
-              <div class="program-room">
+              <div className="program-room">
                 <p>Room A – UCC</p>
                 <p className="session-chair">
                   Session Chair: Matt Baughmann, University of Chicago

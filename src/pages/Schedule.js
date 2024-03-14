@@ -84,7 +84,7 @@ const Schedule = () => {
                 Room A
               </td>
             </tr>
-            <tr class="gray">
+            <tr className="gray">
               <td data-t="s" data-v="08:00 - 08:45" id="sjs-A3">
                 08:00 - 08:45
               </td>
@@ -113,7 +113,7 @@ const Schedule = () => {
                 Registration
               </td>
             </tr>
-            <tr class="gray">
+            <tr className="gray">
               <td data-t="s" data-v="08:45 - 09:00" id="sjs-A4">
                 08:45 - 09:00
               </td>
@@ -161,7 +161,7 @@ const Schedule = () => {
                 Panel Session
               </td>
             </tr>
-            <tr class="gray">
+            <tr className="gray">
               <td data-t="s" data-v="10:00 - 10:30" id="sjs-A6">
                 10:00 - 10:30
               </td>
@@ -241,7 +241,7 @@ const Schedule = () => {
                 <br />4 Papers
               </td>
             </tr>
-            <tr class="gray">
+            <tr className="gray">
               <td data-t="s" data-v="12:30 - 14:30" id="sjs-A8">
                 12:30 - 14:30
               </td>
@@ -398,7 +398,7 @@ const Schedule = () => {
               <td></td>
               <td id="sjs-G12"></td>
             </tr>
-            <tr class="gray">
+            <tr className="gray">
               <td data-t="s" data-v="from 20:00" id="sjs-A13">
                 from 19:00
               </td>
@@ -411,7 +411,7 @@ const Schedule = () => {
               </td>
               <td id="sjs-H13"></td>
             </tr>
-            <tr class="gray">
+            <tr className="gray">
               <td data-t="s" data-v="from 20:00" id="sjs-A13">
                 from 20:00
               </td>
